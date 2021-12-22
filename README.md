@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: I was once a licensed coal miner and have coded in the deepest darkest places on earth. One of my names is on millions of bookshelves and I have friends in high places. I am Mercurial.
 
-- By the way, Mercurial is a play on words related to software revision control systems like Git an Mercurial and then of course Freddy Mercury.
+- By the way, Mercurial is a play on words related to software revision control systems like Git an Mercurial and then of course Freddie Mercury.
 
 <!--
 **JessicaMulein/JessicaMulein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
