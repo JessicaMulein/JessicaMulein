@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BrightChain + NeuralFabric, HACC, PlayZMachine mainly. Always cycling back to these unfinished projects. Many of them have actually merged into BrightChain- it's bigger than anyone I think can imagine.
+- 🔭 I’m currently working on BrightChain + NeuralFabric, HACC, PlayZMachine mainly. Always cycling back to these unfinished projects. Many of them have actually merged into BrightChain- it's bigger than anyone I think can imagine. However, I'm disabled and I am more of an ideas person these days, trying to explore some concepts.
 
 - 🌱 I’m always learning. I'm rebuilding my life as a software engineer and musician after losing many years and a lot of ability to autoimmune diseases and then COVID/Long COVID which further provoked the autoimmune issues. I always am trying to stay current in a lot of different areas. Pushing my knowledge on C#/Blazor, JavaScript, TypeScript and more.
 
