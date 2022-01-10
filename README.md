@@ -9,6 +9,9 @@
 - 💬 Ask me about Software Engineering, Music, Writing. Programmer since ~1987, professional since 1994. Embedded systems, DSP, Web/Full Stack. C/C++, Python, PHP, C#, Java, JavaScript/TypeScript/ECMAScript, ActionScript/Flex, Perl, Go, Pascal, and more.
 
 - 📫 How to reach me: jessica [at] mulein [dot] com
+  - https://jessicamulein.com
+  - https://medium.jessicamulein.com
+  - https://polywork.jessicamulein.com 
 
 - 😄 Pronouns: Mercurial/Highness/Majesty
 
