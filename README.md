@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BrightChain + NeuralFabric, HACC, PlayZMachine mainly. Always cycling back to these unfinished projects. Many of them have actually merged into BrightChain- it's bigger than anyone I think can imagine. However, I'm disabled and I am more of an ideas person these days, trying to explore some concepts.
+- 🔭 I’m currently working on WordMasterMind (Wordle clone with more words/sizes), BrightChain + NeuralFabric, HACC, PlayZMachine mainly. Always cycling back to these unfinished projects. Many of them have actually merged into BrightChain- it's bigger than anyone I think can imagine. However, I'm disabled and I am more of an ideas person these days, trying to explore some concepts.
+- My old projects aren't abandoned- though some are kind of ideas I've thought about and may interest you, so I've left whatever work (if any) I've done. 🤷‍♀️
 
 - 🌱 I’m always learning. I'm rebuilding my life as a software engineer and musician after losing many years and a lot of ability to autoimmune diseases and then COVID/Long COVID which further provoked the autoimmune issues. I always am trying to stay current in a lot of different areas. Pushing my knowledge on C#/Blazor, JavaScript, TypeScript and more.
 
-- 👯 I’m looking to collaborate on BrightChain, StegoPhone, HACC (HTML5 ANSI Console Canvas), PlayZMachine (Zork on console/twitter bot), and more.
+- 👯 I’m looking to collaborate on WordMasterMind, BrightChain, StegoPhone, HACC (HTML5 ANSI Console Canvas), PlayZMachine (Zork on console/twitter bot), and more.
 
 - 💬 Ask me about Software Engineering, Music, Writing. Programmer since ~1987, professional since 1994. Embedded systems, DSP, Web/Full Stack. C/C++, Python, PHP, C#, Java, JavaScript/TypeScript/ECMAScript, ActionScript/Flex, Perl, Go, Pascal, and more.
 
