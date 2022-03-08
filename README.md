@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on PhantomMail (CLI email client) and WordMasterMind (Wordle clone with multiple dictionaries, more words/sizes), BrightChain + NeuralFabric, HACC, PlayZMachine mainly. Always cycling back to these unfinished projects. Many of them have actually merged into BrightChain- it's bigger than anyone I think can imagine. However, I'm disabled and I am more of an ideas person these days, trying to explore some concepts.
+- 🔭 I’m currently working on PhantomMail (CLI email client) and WordMasterMind (Wordle clone with multiple dictionaries, more words/sizes), BrightChain + NeuralFabric, HACC, PlayZMachine mainly. Always cycling back to these unfinished projects. Many of them have actually merged into BrightChain- it's bigger than anyone I think can imagine. However, I'm disabled and I am more of an ideas person these days, trying to explore some concepts. Other projects include Bailey Borwein Plouffe and LUHN-Mod-N.
 - My old projects aren't abandoned- though some are kind of ideas I've thought about and may interest you, so I've left whatever work (if any) I've done. 🤷‍♀️
 
 - 🌱 I’m always learning. I'm rebuilding my life as a software engineer and musician after losing many years and a lot of ability to autoimmune diseases and then COVID/Long COVID which further provoked the autoimmune issues. I always am trying to stay current in a lot of different areas. Pushing my knowledge on C#/Blazor, JavaScript, TypeScript and more.
