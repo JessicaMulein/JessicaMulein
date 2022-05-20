@@ -1,7 +1,13 @@
 ### Hi there 👋
 
 - 🔭 I've recently started an open source team called "[Digital Defiance](https://digitaldefiance.org)" which has absorbed most of my projects at least in theory. Right now we're actively working on [HACC](https://github.com/Blazor-Console/HACC) which is nearing/in Beta!
+  - HACC is just reaching a really really usable state!
+    ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/3766240/169591501-52acb96f-d6f3-44b5-b6af-cffe7731c713.gif)
+
 - I’m also working on Domino Train (Firebase Blazor webassembly demo project), PhantomMail (CLI email client) which will run in HACC and WordMasterMind (Wordle clone with multiple dictionaries, more words/sizes), BrightChain + NeuralFabric, HACC, PlayZMachine mainly. Always cycling back to these unfinished projects. Many of them have actually merged into BrightChain- it's bigger than anyone I think can imagine. However, I'm disabled and I am more of an ideas person these days, trying to explore some concepts. Other projects include Bailey Borwein Plouffe and LUHN-Mod-N.
+  - Domino Train is Webassembly with EF/MS OIDC integrated OAUTH from Firebase, uses firebase to handle the multiplayer functionality, and CSS to draw the dominoes.
+   <img width="623" alt="Screen Shot 2022-05-19 at 1 48 18 PM" src="https://user-images.githubusercontent.com/3766240/169591700-f6dd812d-ad18-4333-a557-c19334de1324.png">
+
 - My old projects aren't abandoned- though some are kind of ideas I've thought about and may interest you, so I've left whatever work (if any) I've done. 🤷‍♀️
 
 - 🌱 I’m always learning. I'm rebuilding my life as a software engineer and musician after losing many years and a lot of ability to autoimmune diseases and then COVID/Long COVID which further provoked the autoimmune issues. I always am trying to stay current in a lot of different areas. Pushing my knowledge on C#/Blazor, JavaScript, TypeScript and more.
