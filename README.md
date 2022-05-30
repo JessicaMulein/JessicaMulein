@@ -9,10 +9,10 @@
   - HACC is just reaching a really really usable state!
     ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/3766240/169591501-52acb96f-d6f3-44b5-b6af-cffe7731c713.gif)
 
-- I’m also working on [Domino Train](https://github.com/FreddieMercurial/Domino-Train) (Firebase Blazor webassembly demo project), PhantomMail (CLI email client) which will run in HACC and WordMasterMind (Wordle clone with multiple dictionaries, more words/sizes), BrightChain + NeuralFabric, HACC, PlayZMachine mainly. Always cycling back to these unfinished projects. Many of them have actually merged into BrightChain- it's bigger than anyone I think can imagine. However, I'm disabled and I am more of an ideas person these days, trying to explore some concepts. Other projects include Bailey Borwein Plouffe and LUHN-Mod-N.
+- I’m also working on [Domino Train](https://github.com/FreddieMercurial/Domino-Train) (Firebase Blazor webassembly demo project), [PhantomMail](https://github.com/PhantomMail) (CLI email client) which will run in HACC and WordMasterMind (Wordle clone with multiple dictionaries, more words/sizes), BrightChain + NeuralFabric, HACC, PlayZMachine mainly. Always cycling back to these unfinished projects. Many of them have actually merged into BrightChain- it's bigger than anyone I think can imagine. However, I'm disabled and I am more of an ideas person these days, trying to explore some concepts. Other projects include Bailey Borwein Plouffe and LUHN-Mod-N.
   - Domino Train is Webassembly with EF/MS OIDC integrated OAUTH from Firebase, uses firebase to handle the multiplayer functionality, and CSS to draw the dominoes.
    ![image](https://user-images.githubusercontent.com/3766240/170848910-fb6e8e0d-eb9a-4606-87ac-ce4cd685c696.png)
-  - PhantomMail is Gui.cs (and soon likely HACC) based modern retro email client.
+  - [PhantomMail](https://github.com/PhantomMail) is Gui.cs (and soon likely HACC) based modern retro email client.
     ![image](https://user-images.githubusercontent.com/3766240/155912631-7904ef2c-e093-44a1-b4cb-9017721caf43.png)
 
 - My old projects aren't abandoned- though some are kind of ideas I've thought about and may interest you, so I've left whatever work (if any) I've done. 🤷‍♀️
