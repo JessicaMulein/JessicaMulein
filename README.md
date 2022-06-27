@@ -24,7 +24,7 @@
 - 💬 Ask me about Software Engineering, Music, Writing. Programmer since ~1987, professional since 1994. Embedded systems, DSP, Web/Full Stack. C/C++, Python, PHP, C#, Java, JavaScript/TypeScript/ECMAScript, ActionScript/Flex, Perl, Go, Pascal, and more.
 
 - 📫 How to reach me: jessica [at] mulein [dot] com
-  - Alternate emails: jessica [at] com [dot] ua (Ukraine/Украї́нська)
+  - Alternate emails: jessica [at] mulein [dot] com [dot] ua (Ukraine/Украї́нська)
   - https://jessicamulein.com
   - https://hashnode.jessicamulein.com
   - https://polywork.jessicamulein.com 
