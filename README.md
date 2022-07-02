@@ -8,8 +8,10 @@
 - 🔭 I've recently started an open source team called "[Digital Defiance](https://digitaldefiance.org)" which has absorbed most of my projects at least in theory. Right now we're actively working on [HACC](https://github.com/Blazor-Console/HACC) which is nearing/in Beta!
   - HACC is just reaching a really really usable state!
     ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/3766240/169591501-52acb96f-d6f3-44b5-b6af-cffe7731c713.gif)
+    
+- I work on a lot of side projects, always starting new things. I usually circle back to projects eventually.
 
-- I’m also working on [Domino Train](https://github.com/FreddieMercurial/Domino-Train) (Firebase Blazor webassembly demo project), [PhantomMail](https://github.com/PhantomMail) (CLI email client) which will run in HACC and WordMasterMind (Wordle clone with multiple dictionaries, more words/sizes), BrightChain + NeuralFabric, HACC, PlayZMachine mainly. Always cycling back to these unfinished projects. Many of them have actually merged into BrightChain- it's bigger than anyone I think can imagine. However, I'm disabled and I am more of an ideas person these days, trying to explore some concepts. Other projects include Bailey Borwein Plouffe and LUHN-Mod-N.
+- I’m also working on [qURI](https://github.com/BrightChain/quri) (ranking/rating component of BrightChain), [Domino Train](https://github.com/FreddieMercurial/Domino-Train) (Firebase Blazor webassembly demo project), [PhantomMail](https://github.com/PhantomMail) (CLI email client) which will run in HACC and WordMasterMind (Wordle clone with multiple dictionaries, more words/sizes), [BrightChain](https://github.com/BrightChain/BrightChain) + NeuralFabric, HACC, PlayZMachine mainly. Always cycling back to these unfinished projects. Many of them have actually merged into BrightChain- it's bigger than anyone I think can imagine. However, I'm disabled and I am more of an ideas person these days, trying to explore some concepts. Other projects include Bailey Borwein Plouffe and LUHN-Mod-N.
   - Domino Train is Webassembly with EF/MS OIDC integrated OAUTH from Firebase, uses firebase to handle the multiplayer functionality, and CSS to draw the dominoes.
    ![image](https://user-images.githubusercontent.com/3766240/170848910-fb6e8e0d-eb9a-4606-87ac-ce4cd685c696.png)
   - [PhantomMail](https://github.com/PhantomMail) is Gui.cs (and soon likely HACC) based modern retro email client.
@@ -25,11 +27,11 @@
 
 - 📫 How to reach me: jessica [at] mulein [dot] com
   - Alternate emails: jessica [at] mulein [dot] com [dot] ua (Ukraine/Украї́нська)
-  - https://jessicamulein.com
+  - https://jessicamulein.com (GitHub pages hosted)
   - https://hashnode.jessicamulein.com
   - https://polywork.jessicamulein.com 
 
-- 😄 Pronouns: Mercurial/Highness/Majesty
+- 😄 Pronouns: Mercurial/Highness/Majesty (she/her if you really want to know)
 
 - ⚡ Fun fact: I was once a licensed coal miner and have coded in the deepest darkest places on earth. One of my names is on millions of bookshelves and I have friends in high places. I am Mercurial.
 
@@ -37,7 +39,3 @@
 - Pseudonym is because people ignore women.
 
 ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=freddiemercurial&theme=tokyonight)
-
-<!--
-**JessicaMulein/JessicaMulein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
