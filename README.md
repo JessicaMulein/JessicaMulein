@@ -30,6 +30,7 @@
   - https://jessicamulein.com (GitHub pages hosted)
   - https://hashnode.jessicamulein.com
   - https://polywork.jessicamulein.com 
+  - <a rel="me" href="https://fivebyfive.social/@jmulein">Mastodon</a> or <a rel="me" href="https://tech.lgbt/@jmulein">Alt Mastodon</a>
 
 - 😄 Pronouns: Mercurial/Highness/Majesty (she/her if you really want to know)
 
