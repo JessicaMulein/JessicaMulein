@@ -8,6 +8,7 @@
 - About me
   - Software Engineer at Microsoft
   - Musician and composer with music available on most streaming services
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Since you like stranger things<br><br>I wrote this for my kidnapped children.<br><br>I love my boys forever.<a href="https://t.co/JYfKWeC62C">https://t.co/JYfKWeC62C</a></p>&mdash; Jessica Mulein 🫂🖖🇺🇦🌻🇺🇲🆘 (@JessicaMulein) <a href="https://twitter.com/JessicaMulein/status/1534851062510723073?ref_src=twsrc%5Etfw">June 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   - Open Source advocate and contributor
   - Women's, minority, and disabled rights advocate
   - Disabled from MS (Multiple Sclerosis), COPD, long COVID
