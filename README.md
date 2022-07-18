@@ -5,6 +5,13 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/JessicaMulein?style=social)](https://www.twitter.com/JessicaMulein)
 <!-- CUSTOM-BADGES:END -->
 
+- About me
+  - Software Engineer at Microsoft
+  - Musician and composer with music available on most streaming services
+  - Open Source advocate and contributor
+  - Women's, minority, and disabled rights advocate
+  - Disabled from MS (Multiple Sclerosis), COPD, long COVID
+
 - 🔭 I've recently started an open source team called "[Digital Defiance](https://digitaldefiance.org)" which has absorbed most of my projects at least in theory. Right now we're actively working on [HACC](https://github.com/Blazor-Console/HACC) which is nearing/in Beta!
   - HACC is just reaching a really really usable state!
     ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/3766240/169591501-52acb96f-d6f3-44b5-b6af-cffe7731c713.gif)
