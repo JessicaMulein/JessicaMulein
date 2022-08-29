@@ -20,14 +20,15 @@
     https://keybase.io/team/digitaldefiance
     
 - I work on a lot of side projects, always starting new things. I usually circle back to projects eventually.
+- Unfortunately I am currently mothballing a lot of projects. I have little energy and am finding a hard time doing the things life demands, let alone open source code.
 
-- I’m also working on [qURI](https://github.com/BrightChain/quri) (ranking/rating component of BrightChain), [Domino Train](https://github.com/FreddieMercurial/Domino-Train) (Firebase Blazor webassembly demo project), [PhantomMail](https://github.com/PhantomMail) (CLI email client) which will run in HACC and WordMasterMind (Wordle clone with multiple dictionaries, more words/sizes), [BrightChain](https://github.com/BrightChain/BrightChain) + NeuralFabric, HACC, PlayZMachine mainly. Always cycling back to these unfinished projects. Many of them have actually merged into BrightChain- it's bigger than anyone I think can imagine. However, I'm disabled and I am more of an ideas person these days, trying to explore some concepts. Other projects include Bailey Borwein Plouffe and LUHN-Mod-N.
-  - Domino Train is Webassembly with EF/MS OIDC integrated OAUTH from Firebase, uses firebase to handle the multiplayer functionality, and CSS to draw the dominoes.
+- I was also working on [qURI](https://github.com/BrightChain/quri) (ranking/rating component of BrightChain), [Domino Train](https://github.com/FreddieMercurial/Domino-Train) (Firebase Blazor webassembly demo project), [PhantomMail](https://github.com/PhantomMail) (CLI email client) which will run in HACC and WordMasterMind (Wordle clone with multiple dictionaries, more words/sizes), [BrightChain](https://github.com/BrightChain/BrightChain) + NeuralFabric, HACC, PlayZMachine mainly. Always cycling back to these unfinished projects. Many of them have actually merged into BrightChain- it's bigger than anyone I think can imagine. However, I'm disabled and I am more of an ideas person these days, trying to explore some concepts. Other projects include Bailey Borwein Plouffe and LUHN-Mod-N.
+  - Domino Train was Webassembly with EF/MS OIDC integrated OAUTH from Firebase, uses firebase to handle the multiplayer functionality, and CSS to draw the dominoes.
    ![image](https://user-images.githubusercontent.com/3766240/170848910-fb6e8e0d-eb9a-4606-87ac-ce4cd685c696.png)
-  - [PhantomMail](https://github.com/PhantomMail) is Gui.cs (and soon likely HACC) based modern retro email client.
+  - [PhantomMail](https://github.com/PhantomMail) was Gui.cs (and soon likely HACC) based modern retro email client.
     ![image](https://user-images.githubusercontent.com/3766240/155912631-7904ef2c-e093-44a1-b4cb-9017721caf43.png)
 
-- My old projects aren't abandoned- though some are kind of ideas I've thought about and may interest you, so I've left whatever work (if any) I've done. 🤷‍♀️
+- My old projects aren't totally abandoned- though some are kind of ideas I've thought about and may interest you, so I've left whatever work (if any) I've done. 🤷‍♀️ I may swing back yet...
 
 - 🌱 I’m always learning. I'm rebuilding my life as a software engineer and musician after losing many years and a lot of ability to autoimmune diseases and then COVID/Long COVID which further provoked the autoimmune issues. I always am trying to stay current in a lot of different areas. Pushing my knowledge on C#/Blazor, JavaScript, TypeScript and more.
 
