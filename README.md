@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- CUSTOM-BADGES:START -->
-![GitHub followers](https://img.shields.io/github/followers/FreddieMercurial?style=social) 
+![GitHub followers](https://img.shields.io/github/followers/JessieMercurial?style=social) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JessicaMulein?style=social)](https://www.twitter.com/JessicaMulein)
 <!-- CUSTOM-BADGES:END -->
 
