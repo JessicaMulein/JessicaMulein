@@ -21,12 +21,13 @@
     
 - I work on a lot of side projects, always starting new things. I usually circle back to projects eventually.
 - Unfortunately I am currently mothballing a lot of projects. I have little energy and am finding a hard time doing the things life demands, let alone open source code.
+  - Most of what I am working on is in TypeScript and in an [NX](https://nx.dev/) based monorepo https://github.com/Digital-Defiance/nx-monorepo
 
-- I was also working on [qURI](https://github.com/BrightChain/quri) (ranking/rating component of BrightChain), [Domino Train](https://github.com/FreddieMercurial/Domino-Train) (Firebase Blazor webassembly demo project), [PhantomMail](https://github.com/PhantomMail) (CLI email client) which will run in HACC and WordMasterMind (Wordle clone with multiple dictionaries, more words/sizes), [BrightChain](https://github.com/BrightChain/BrightChain) + NeuralFabric, HACC, PlayZMachine mainly. Always cycling back to these unfinished projects. Many of them have actually merged into BrightChain- it's bigger than anyone I think can imagine. However, I'm disabled and I am more of an ideas person these days, trying to explore some concepts. Other projects include Bailey Borwein Plouffe and LUHN-Mod-N.
-  - Domino Train was Webassembly with EF/MS OIDC integrated OAUTH from Firebase, uses firebase to handle the multiplayer functionality, and CSS to draw the dominoes.
-   ![image](https://user-images.githubusercontent.com/3766240/170848910-fb6e8e0d-eb9a-4606-87ac-ce4cd685c696.png)
-  - [PhantomMail](https://github.com/PhantomMail) was Gui.cs (and soon likely HACC) based modern retro email client.
-    ![image](https://user-images.githubusercontent.com/3766240/155912631-7904ef2c-e093-44a1-b4cb-9017721caf43.png)
+  - I was also working on [qURI](https://github.com/BrightChain/quri) (ranking/rating component of BrightChain), [Domino Train](https://github.com/FreddieMercurial/Domino-Train) (Firebase Blazor webassembly demo project), [PhantomMail](https://github.com/PhantomMail) (CLI email client) which will run in HACC and WordMasterMind (Wordle clone with multiple dictionaries, more words/sizes), [BrightChain](https://github.com/BrightChain/BrightChain) + NeuralFabric, HACC, PlayZMachine mainly. Always cycling back to these unfinished projects. Many of them have actually merged into BrightChain- it's bigger than anyone I think can imagine. However, I'm disabled and I am more of an ideas person these days, trying to explore some concepts. Other projects include Bailey Borwein Plouffe and LUHN-Mod-N.
+    - Domino Train was Webassembly with EF/MS OIDC integrated OAUTH from Firebase, uses firebase to handle the multiplayer functionality, and CSS to draw the dominoes.
+     ![image](https://user-images.githubusercontent.com/3766240/170848910-fb6e8e0d-eb9a-4606-87ac-ce4cd685c696.png)
+    - [PhantomMail](https://github.com/PhantomMail) was Gui.cs (and soon likely HACC) based modern retro email client.
+      ![image](https://user-images.githubusercontent.com/3766240/155912631-7904ef2c-e093-44a1-b4cb-9017721caf43.png)
 
 - My old projects aren't totally abandoned- though some are kind of ideas I've thought about and may interest you, so I've left whatever work (if any) I've done. 🤷‍♀️ I may swing back yet...
 
@@ -39,9 +40,9 @@
 - 📫 How to reach me: jessica [at] mulein [dot] com
   - Alternate emails: jessica [at] mulein [dot] com [dot] ua (Ukraine/Украї́нська)
   - https://jessicamulein.com (GitHub pages hosted)
+  - https://linktr.ee/jmulein
   - https://hashnode.jessicamulein.com
-  - https://polywork.jessicamulein.com 
-  - <a rel="me" href="https://fivebyfive.social/@jmulein">Mastodon</a> or <a rel="me" href="https://tech.lgbt/@jmulein">Alt Mastodon</a>
+  - <a rel="me" href="https://mastodon.social/@jessicamulein">Mastodon</a> or <a rel="me" href="https://tech.lgbt/@jmulein">Alt Mastodon</a>
 
 - 😄 Pronouns: Mercurial/Highness/Majesty (she/her if you really want to know)
 
