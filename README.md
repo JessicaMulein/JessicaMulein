@@ -51,4 +51,4 @@
 - By the way, Mercurial is a play on words related to software revision control systems like Git an Mercurial and then of course Freddie Mercury.
 - Pseudonym is because people ignore women.
 
-![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=freddiemercurial&theme=tokyonight)
+![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessiemercurial&theme=tokyonight)
