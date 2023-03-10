@@ -21,7 +21,9 @@
     
 - I work on a lot of side projects, always starting new things. I usually circle back to projects eventually.
 - Unfortunately I am currently mothballing a lot of projects. I have little energy and am finding a hard time doing the things life demands, let alone open source code.
-  - Most of what I am working on is in TypeScript and in an [NX](https://nx.dev/) based monorepo https://github.com/Digital-Defiance/nx-monorepo
+  - Most of what I am working on is in TypeScript and in an [NX](https://nx.dev/) based monorepo.
+  - Generally, this is https://github.com/Digital-Defiance/nx-monorepo
+  - [Duality Social](https://github.com/Digital-Defiance/duality-social) has its own NX monorepo as well. I will probably convert the main nx-monorepo to a package based workspace since that seems to be working best and hopefully then move duality social over to it.
 
   - I was also working on [qURI](https://github.com/BrightChain/quri) (ranking/rating component of BrightChain), [Domino Train](https://github.com/FreddieMercurial/Domino-Train) (Firebase Blazor webassembly demo project), [PhantomMail](https://github.com/PhantomMail) (CLI email client) which will run in HACC and WordMasterMind (Wordle clone with multiple dictionaries, more words/sizes), [BrightChain](https://github.com/BrightChain/BrightChain) + NeuralFabric, HACC, PlayZMachine mainly. Always cycling back to these unfinished projects. Many of them have actually merged into BrightChain- it's bigger than anyone I think can imagine. However, I'm disabled and I am more of an ideas person these days, trying to explore some concepts. Other projects include Bailey Borwein Plouffe and LUHN-Mod-N.
     - Domino Train was Webassembly with EF/MS OIDC integrated OAUTH from Firebase, uses firebase to handle the multiplayer functionality, and CSS to draw the dominoes.
