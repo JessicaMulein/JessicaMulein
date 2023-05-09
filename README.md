@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+I'm the artist formerly known as Jessie Mercurial and Freddie Mercurial.
+
 <!-- CUSTOM-BADGES:START -->
-![GitHub followers](https://img.shields.io/github/followers/JessieMercurial?style=social) 
+![GitHub followers](https://img.shields.io/github/followers/JesscaMulein?style=social) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JessicaMulein?style=social)](https://www.twitter.com/JessicaMulein)
 <!-- CUSTOM-BADGES:END -->
 
@@ -25,7 +27,7 @@
   - Generally, this is https://github.com/Digital-Defiance/nx-monorepo
   - [Duality Social](https://github.com/Digital-Defiance/duality-social) has its own NX monorepo as well. I will probably convert the main nx-monorepo to a package based workspace since that seems to be working best and hopefully then move duality social over to it.
 
-  - I was also working on [qURI](https://github.com/BrightChain/quri) (ranking/rating component of BrightChain), [Domino Train](https://github.com/FreddieMercurial/Domino-Train) (Firebase Blazor webassembly demo project), [PhantomMail](https://github.com/PhantomMail) (CLI email client) which will run in HACC and WordMasterMind (Wordle clone with multiple dictionaries, more words/sizes), [BrightChain](https://github.com/BrightChain/BrightChain) + NeuralFabric, HACC, PlayZMachine mainly. Always cycling back to these unfinished projects. Many of them have actually merged into BrightChain- it's bigger than anyone I think can imagine. However, I'm disabled and I am more of an ideas person these days, trying to explore some concepts. Other projects include Bailey Borwein Plouffe and LUHN-Mod-N.
+  - I was also working on [qURI](https://github.com/BrightChain/quri) (ranking/rating component of BrightChain), [Domino Train](https://github.com/JessicaMulein/Domino-Train) (Firebase Blazor webassembly demo project), [PhantomMail](https://github.com/PhantomMail) (CLI email client) which will run in HACC and WordMasterMind (Wordle clone with multiple dictionaries, more words/sizes), [BrightChain](https://github.com/BrightChain/BrightChain) + NeuralFabric, HACC, PlayZMachine mainly. Always cycling back to these unfinished projects. Many of them have actually merged into BrightChain- it's bigger than anyone I think can imagine. However, I'm disabled and I am more of an ideas person these days, trying to explore some concepts. Other projects include Bailey Borwein Plouffe and LUHN-Mod-N.
     - Domino Train was Webassembly with EF/MS OIDC integrated OAUTH from Firebase, uses firebase to handle the multiplayer functionality, and CSS to draw the dominoes.
      ![image](https://user-images.githubusercontent.com/3766240/170848910-fb6e8e0d-eb9a-4606-87ac-ce4cd685c696.png)
     - [PhantomMail](https://github.com/PhantomMail) was Gui.cs (and soon likely HACC) based modern retro email client.
