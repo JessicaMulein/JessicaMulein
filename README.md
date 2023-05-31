@@ -3,7 +3,7 @@
 I'm the artist formerly known as Jessie Mercurial and Freddie Mercurial.
 
 <!-- CUSTOM-BADGES:START -->
-![GitHub followers](https://img.shields.io/github/followers/JesscaMulein?style=social) 
+![GitHub followers](https://img.shields.io/github/followers/JessicaMulein?style=social) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JessicaMulein?style=social)](https://www.twitter.com/JessicaMulein)
 <!-- CUSTOM-BADGES:END -->
 
