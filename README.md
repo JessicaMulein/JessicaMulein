@@ -2,18 +2,14 @@
 
 I'm the artist formerly known as Jessie Mercurial and Freddie Mercurial.
 
-<!-- CUSTOM-BADGES:START -->
-![GitHub followers](https://img.shields.io/github/followers/JessicaMulein?style=social) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/JessicaMulein?style=social)](https://www.twitter.com/JessicaMulein)
-<!-- CUSTOM-BADGES:END -->
-
 - About me
   - Software Engineer at Microsoft
   - Musician and composer with music available on most streaming services
-    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Since you like stranger things<br><br>I wrote this for my kidnapped children.<br><br>I love my boys forever.<a href="https://t.co/JYfKWeC62C">https://t.co/JYfKWeC62C</a></p>&mdash; Jessica Mulein 🫂🖖🇺🇦🌻🇺🇲🆘 (@JessicaMulein) <a href="https://twitter.com/JessicaMulein/status/1534851062510723073?ref_src=twsrc%5Etfw">June 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   - Open Source advocate and contributor
   - Women's, minority, and disabled rights advocate
   - Disabled from MS (Multiple Sclerosis), COPD, long COVID, and metastatic thyroid cancer
+ 
+Much is "up in the air" or "on pause" right now due to cancer's impact on my health and mental health.
 
 - 🔭 I've recently started an open source team called "[Digital Defiance](https://digitaldefiance.org)" which is a non profit incorporated in WA state and is 501c3 pending. It has absorbed most of my projects at least in theory. Right now we're actively working on a number of projects.
   - HACC is just reaching a really really usable state!
