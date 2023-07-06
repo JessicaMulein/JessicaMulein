@@ -51,3 +51,5 @@ Much is "up in the air" or "on pause" right now due to cancer's impact on my hea
 - Pseudonym is because people ignore women.
 
 ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessiemercurial&theme=tokyonight)
+- Mastodon: <a rel="me" href="https://mastodon.social/@jmulein">Mastodon</a>
+- LinkedIn: [https://www.linkedin.com/in/jessicamulein/](https://www.linkedin.com/in/jessicamulein/)
