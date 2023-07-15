@@ -11,11 +11,12 @@ I'm the artist formerly known as Jessie Mercurial and Freddie Mercurial.
  
 Much is "up in the air" or "on pause" right now due to cancer's impact on my health and mental health.
 
-- 🔭 I've recently started an open source team called "[Digital Defiance](https://digitaldefiance.org)" which is a non profit incorporated in WA state and is 501c3 pending. It has absorbed most of my projects at least in theory. Right now we're actively working on a number of projects.
+- 🔭 I've recently started an open source team called "[Digital Defiance](https://digitaldefiance.org)" which is a non profit incorporated in WA state and is officially 501c3. It has absorbed most of my projects at least in theory. Right now we're actively working on a number of projects.
   - HACC is just reaching a really really usable state!
     ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/3766240/169591501-52acb96f-d6f3-44b5-b6af-cffe7731c713.gif)
-  - Come find us on Keybase!
-    https://keybase.io/team/digitaldefiance
+  - Come find us!
+    - Keybase: https://keybase.io/team/digitaldefiance
+    - Discord: https://discord.gg/8ASAAxzyyM
     
 - I work on a lot of side projects, always starting new things. I usually circle back to projects eventually.
 - I am currently un-mothballing some of the projects I set aside when I was sicker. I am still finding a balance between my personal time and my work time, but unfortunately the work comes first.
@@ -45,7 +46,7 @@ Much is "up in the air" or "on pause" right now due to cancer's impact on my hea
 
 - 😄 Pronouns: Mercurial/Highness/Majesty (she/her if you really want to know)
 
-- ⚡ Fun fact: I was once a licensed coal miner and have coded in the deepest darkest places on earth. One of my names is on millions of bookshelves and I have friends in high places. I am Mercurial.
+- ⚡ Fun fact: I was once a licensed coal miner and have coded in the deepest darkest places on earth. One of my names is on millions of bookshelves.
 
 - By the way, Mercurial is a play on words related to software revision control systems like Git an Mercurial and then of course Freddie Mercury.
 - Pseudonym is because people ignore women.
