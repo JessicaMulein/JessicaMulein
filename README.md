@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-I'm the artist formerly known as Jessie Mercurial and Freddie Mercurial.
-
 - About me
   - Software Engineer at Microsoft
   - Musician and composer with music available on most streaming services
+  - President/COO and founder of Digital Defiance, a non-profit Open Source Engineering Guild 
   - Open Source advocate and contributor
   - Women's, minority, and disabled rights advocate
   - Disabled from MS (Multiple Sclerosis), COPD, long COVID, and metastatic thyroid cancer
  
 Much is "up in the air" or "on pause" right now due to cancer's impact on my health and mental health.
 
-- 🔭 I've recently started an open source team called "[Digital Defiance](https://digitaldefiance.org)" which is a non profit incorporated in WA state and is officially 501c3. It has absorbed most of my projects at least in theory. Right now we're actively working on a number of projects.
+- 🔭 I've recently started an Open Source/FOSS Guild called "[Digital Defiance](https://digitaldefiance.org)" which is a non profit incorporated in WA state and is officially 501c3. It has absorbed most of my projects at least in theory. Right now we're actively working on a number of projects.
   - HACC is just reaching a really really usable state!
     ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/3766240/169591501-52acb96f-d6f3-44b5-b6af-cffe7731c713.gif)
   - Come find us!
@@ -41,9 +40,6 @@ Much is "up in the air" or "on pause" right now due to cancer's impact on my hea
 
 - ⚡ Fun fact: I was once a licensed coal miner and have coded in the deepest darkest places on earth. One of my names is on millions of bookshelves.
 
-- By the way, Mercurial is a play on words related to software revision control systems like Git an Mercurial and then of course Freddie Mercury.
-- Pseudonym is because people ignore women.
-
-![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessicaMulein&theme=tokyonight)
+![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessiemercurial&theme=tokyonight)
 - Mastodon: <a rel="me" href="https://mastodon.social/@jmulein">Mastodon</a>
 - LinkedIn: [https://www.linkedin.com/in/jessicamulein/](https://www.linkedin.com/in/jessicamulein/)
