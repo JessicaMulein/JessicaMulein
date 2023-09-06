@@ -35,7 +35,7 @@ Much is "up in the air" or "on pause" right now due to cancer's impact on my hea
   - https://jessicamulein.com (GitHub pages hosted)
   - https://linktr.ee/jmulein
   - https://hashnode.jessicamulein.com
-  - <a rel="me" href="https://mastodon.social/@jmulein">Mastodon</a> or <a rel="me" href="https://tech.lgbt/@jmulein">Alt Mastodon</a>
+  - <a rel="me" href="https://mastodon.social/@jmulein">Mastodon</a>
 
 - 😄 Pronouns: Mercurial/Highness/Majesty (she/her if you really want to know)
 
