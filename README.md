@@ -44,6 +44,6 @@ Much is "up in the air" or "on pause" right now due to cancer's impact on my hea
 - By the way, Mercurial is a play on words related to software revision control systems like Git an Mercurial and then of course Freddie Mercury.
 - Pseudonym is because people ignore women.
 
-![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessiemercurial&theme=tokyonight)
+![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessicaMulein&theme=tokyonight)
 - Mastodon: <a rel="me" href="https://mastodon.social/@jmulein">Mastodon</a>
 - LinkedIn: [https://www.linkedin.com/in/jessicamulein/](https://www.linkedin.com/in/jessicamulein/)
