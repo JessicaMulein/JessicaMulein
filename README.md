@@ -6,7 +6,8 @@
   - President/COO and founder of Digital Defiance, a non-profit Open Source Engineering Guild 
   - Open Source advocate and contributor
   - Women's, minority, and disabled rights advocate
-  - Disabled from MS (Multiple Sclerosis), COPD, long COVID, and metastatic thyroid cancer
+  - Disabled due to aggressive/advanced metastatic thyroid cancer, COPD, long COVID
+  - Strong chance of losing my voice to thyroid cancer surgery in early 2024. [Play.HT](https://play.ht) has generously donated a subscription for me to use to clone my voice before it is taken from me. Also investigating Open Source approaches like Realtime Voice Cloning and OpenVoice.
  
 Much is "up in the air" or "on pause" right now due to cancer's impact on my health and mental health.
 
@@ -20,7 +21,12 @@ Much is "up in the air" or "on pause" right now due to cancer's impact on my hea
 - I work on a lot of side projects, always starting new things. I usually circle back to projects eventually.
 - I am currently un-mothballing some of the projects I set aside when I was sicker. I am still finding a balance between my personal time and my work time, but unfortunately the work comes first.
   - Most of what I am currently working on is in TypeScript and in [NX](https://nx.dev/) based monorepos. I previously tried to merge multiple projects into a massive monorepo and that didn't pan out very well for Docker and the like, so I've started to break things back apart into their own separate monorepos.
-  - [Duality Social](https://github.com/Digital-Defiance/duality-social) has its own NX monorepo as well.
+  - [BrightChain](https://github.com/Digital-Defiance/BrightChain)
+  - [GridIron](https://github.com/Digital-Defiance/gridiron)
+  - [Project Albatross](https://github.com/Digital-Defiance/project-albatross)
+  - [Albatross One](https://github.com/Digital-Defiance/albatross-one)
+  - [Chili and Cilantro](https://github.com/Digital-Defiance/chili-and-cilantro)
+  - [OpenBook](https://github.com/Digital-Defiance/OpenBook)
   - A number of my projects utilized Firebase but Google moved my quota of projects to zero which effectively shut me down. I have been working on developing a new pattern based on typescript, node, express, and react but it takes time.
 
 - My old projects aren't totally abandoned- though some are kind of ideas I've thought about and may interest you, so I've left whatever work (if any) I've done. 🤷‍♀️ I may swing back yet... Occasionally I'll pick one of them back up out of the blue and update it. Most of it is ideas in search of an audience.
