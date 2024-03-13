@@ -44,7 +44,7 @@ Much is "up in the air" or "on pause" right now due to cancer's impact on my hea
 
 - 😄 Pronouns: Mercurial/Highness/Majesty (she/her if you really want to know)
 
-- ⚡ Fun fact: I was once a licensed coal miner and have coded in the deepest darkest places on earth. One of my names is on millions of bookshelves.
+- ⚡ Fun fact: I was once a licensed coal miner and have coded in the deepest darkest places on earth. I have lived rather diverse and separate lives under several names. One of my names is on millions of bookshelves.
 
 ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessiemercurial&theme=tokyonight)
 - Mastodon: <a rel="me" href="https://mastodon.social/@jmulein">Mastodon</a>
