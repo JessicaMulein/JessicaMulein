@@ -36,14 +36,13 @@ Much is "up in the air" or "on pause" right now due to cancer's impact on my hea
 
 - 📫 How to reach me: jessica [at] mulein [dot] com
   - Alternate emails: jessica [at] mulein [dot] com [dot] ua (Ukraine/Украї́нська)
-  - https://jessicamulein.com (GitHub pages hosted)
-  - https://linktr.ee/jmulein
-  - <a rel="me" href="https://mastodon.social/@jmulein">Mastodon</a>
+  - [https://jessicamulein.com](https://jessicamulein.com) (GitHub pages hosted)
+  - [https://linktr.ee/jmulein](https://linktr.ee/jmulein)
+  - Mastodon: [https://mastodon.social/@jmulein](https://mastodon.social/@jmulein)
+  - LinkedIn: [https://www.linkedin.com/in/jessicamulein/](https://www.linkedin.com/in/jessicamulein/)
 
 - 😄 Pronouns: Mercurial/Highness/Majesty (she/her if you really want to know)
 
 - ⚡ Fun fact: I was once a licensed coal miner and have coded in the deepest darkest places on earth. I have lived rather diverse and separate lives under several names. One of my names is on millions of bookshelves.
 
 ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessicaMulein&theme=tokyonight)
-- Mastodon: <a rel="me" href="https://mastodon.social/@jmulein">Mastodon</a>
-- LinkedIn: [https://www.linkedin.com/in/jessicamulein/](https://www.linkedin.com/in/jessicamulein/)
