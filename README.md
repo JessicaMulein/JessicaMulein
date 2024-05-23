@@ -7,8 +7,7 @@
   - Open Source advocate and contributor
   - Women's, minority, and disabled rights advocate
   - Disabled due to aggressive/advanced metastatic thyroid cancer, COPD, long COVID
-  - Strong chance of losing my voice to thyroid cancer surgery in early 2024. [Play.HT](https://play.ht) has generously donated a subscription for me to use to clone my voice before it is taken from me. Also investigating Open Source approaches like Realtime Voice Cloning and OpenVoice.
- 
+
 Much is "up in the air" or "on pause" right now due to cancer's impact on my health. I had made a burst of effort on a number of my projects, but ultimately I think I am going to dedicate more of my time to reading and less to coding since I don't seem to have anyone that uses or cares about my code. I hope it will be useful to someone, but it seems I am not going to be the one to finish it. My cancer prognosis has shifted towards incurable, and although it isn't immediately terminal, I may only have a few years- not all of which will be "good time". So I am trying to refocus my life on work and reading and getting rid of things I've accumulated over my life. Sorry I wasn't able to code more or finish everything. I tended to jump between projects, never finishing anything but always starting something new. Still, I think I've left a chunk of useful code for anyone who wants to borrow it. Lots of good stuff in the BrightChain repo. Encryption, ethereum hdkeys, all kinds of goodies. Even reed-solomon block recovery. Check it out if you have an interest.
 
 - 🔭 I started an Open Source/FOSS Guild called "[Digital Defiance](https://digitaldefiance.org)" which is a non profit incorporated in WA state and is officially 501c3. It has absorbed most of my projects at least in theory. Right now we're actively working on a number of projects.
