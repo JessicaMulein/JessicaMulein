@@ -38,7 +38,6 @@ Much is "up in the air" or "on pause" right now due to cancer's impact on my hea
   - Alternate emails: jessica [at] mulein [dot] com [dot] ua (Ukraine/Украї́нська)
   - https://jessicamulein.com (GitHub pages hosted)
   - https://linktr.ee/jmulein
-  - https://hashnode.jessicamulein.com
   - <a rel="me" href="https://mastodon.social/@jmulein">Mastodon</a>
 
 - 😄 Pronouns: Mercurial/Highness/Majesty (she/her if you really want to know)
