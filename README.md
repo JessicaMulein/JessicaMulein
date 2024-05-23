@@ -44,6 +44,6 @@ Much is "up in the air" or "on pause" right now due to cancer's impact on my hea
 
 - ⚡ Fun fact: I was once a licensed coal miner and have coded in the deepest darkest places on earth. I have lived rather diverse and separate lives under several names. One of my names is on millions of bookshelves.
 
-![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessiemercurial&theme=tokyonight)
+![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessicaMulein&theme=tokyonight)
 - Mastodon: <a rel="me" href="https://mastodon.social/@jmulein">Mastodon</a>
 - LinkedIn: [https://www.linkedin.com/in/jessicamulein/](https://www.linkedin.com/in/jessicamulein/)
