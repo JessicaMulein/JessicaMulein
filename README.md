@@ -35,7 +35,6 @@ Much is "up in the air" or "on pause" right now due to cancer's impact on my hea
 - 💬 Ask me about Software Engineering, Music, Writing. Programmer since ~1987, professional since 1994. Embedded systems, DSP, Web/Full Stack. C/C++, Python, PHP, C#, Java, JavaScript/TypeScript/ECMAScript, ActionScript/Flex, Perl, Go, Pascal, and more.
 
 - 📫 How to reach me: jessica [at] mulein [dot] com
-  - Alternate emails: jessica [at] mulein [dot] com [dot] ua (Ukraine/Украї́нська)
   - [https://jessicamulein.com](https://jessicamulein.com) (GitHub pages hosted)
   - [https://linktr.ee/jmulein](https://linktr.ee/jmulein)
   - Mastodon: [https://mastodon.social/@jmulein](https://mastodon.social/@jmulein)
