@@ -8,9 +8,7 @@
   - Women's, minority, and disabled rights advocate
   - Disabled due to aggressive/advanced metastatic thyroid cancer, COPD, long COVID
 
-- 🔭 I started an Open Source/FOSS Guild called "[Digital Defiance](https://digitaldefiance.org)" which is a non profit incorporated in WA state and is officially 501c3. It has absorbed most of my projects at least in theory. Right now we're actively working on a number of projects.
-  - HACC is just reaching a really really usable state!
-    ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/3766240/169591501-52acb96f-d6f3-44b5-b6af-cffe7731c713.gif)
+- 🔭 I started an Open Source/FOSS Guild called "[Digital Defiance](https://digitaldefiance.org)" ([GitHub](https://github.com/Digital-Defiance)) which is a non profit incorporated in WA state and is officially 501c3. It has absorbed most of my projects. Right now we're actively working on a number of projects.
   - Come find us!
     - Keybase: https://keybase.io/team/digitaldefiance
     - Discord: https://discord.gg/8ASAAxzyyM
