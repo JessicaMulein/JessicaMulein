@@ -8,8 +8,6 @@
   - Women's, minority, and disabled rights advocate
   - Disabled due to aggressive/advanced metastatic thyroid cancer, COPD, long COVID
 
-Much is "up in the air" or "on pause" right now due to cancer's impact on my health. I had made a burst of effort on a number of my projects, but ultimately I think I am going to dedicate more of my time to reading and less to coding since I don't seem to have anyone that uses or cares about my code. I hope it will be useful to someone, but it seems I am not going to be the one to finish it. My cancer prognosis has shifted towards incurable, and although it isn't immediately terminal, I may only have a few years- not all of which will be "good time". So I am trying to refocus my life on work and reading and getting rid of things I've accumulated over my life. Sorry I wasn't able to code more or finish everything. I tended to jump between projects, never finishing anything but always starting something new. Still, I think I've left a chunk of useful code for anyone who wants to borrow it. Lots of good stuff in the BrightChain repo. Encryption, ethereum hdkeys, all kinds of goodies. Even reed-solomon block recovery. Check it out if you have an interest.
-
 - 🔭 I started an Open Source/FOSS Guild called "[Digital Defiance](https://digitaldefiance.org)" which is a non profit incorporated in WA state and is officially 501c3. It has absorbed most of my projects at least in theory. Right now we're actively working on a number of projects.
   - HACC is just reaching a really really usable state!
     ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/3766240/169591501-52acb96f-d6f3-44b5-b6af-cffe7731c713.gif)
@@ -18,15 +16,13 @@ Much is "up in the air" or "on pause" right now due to cancer's impact on my hea
     - Discord: https://discord.gg/8ASAAxzyyM
     
 - I work on a lot of side projects, always starting new things. I usually circle back to projects eventually.
-- I am currently un-mothballing some of the projects I set aside when I was sicker. I am still finding a balance between my personal time and my work time, but unfortunately the work comes first.
-  - Most of what I am currently working on is in TypeScript and in [NX](https://nx.dev/) based monorepos. I previously tried to merge multiple projects into a massive monorepo and that didn't pan out very well for Docker and the like, so I've started to break things back apart into their own separate monorepos.
+- I am currently un-mothballing some of the projects I set aside when I was sicker.
+  - Most of what I am currently working on is in TypeScript and in [NX](https://nx.dev/) based monorepos, MERN stacks.
   - [BrightChain](https://github.com/Digital-Defiance/BrightChain)
-  - [GridIron](https://github.com/Digital-Defiance/gridiron)
-  - [Project Albatross](https://github.com/Digital-Defiance/project-albatross)
-  - [Albatross One](https://github.com/Digital-Defiance/albatross-one)
-  - [Chili and Cilantro](https://github.com/Digital-Defiance/chili-and-cilantro)
+  - [Dominion Assistant](https://github.com/Digital-Defiance/DominionAssistant)
   - [OpenBook](https://github.com/Digital-Defiance/OpenBook)
-  - A number of my projects utilized Firebase but Google moved my quota of projects to zero which effectively shut me down. I have been working on developing a new pattern based on typescript, node, express, and react but it takes time.
+  - [Chili and Cilantro](https://github.com/Digital-Defiance/chili-and-cilantro)
+  - [GridIron](https://github.com/Digital-Defiance/gridiron)
 
 - My old projects aren't totally abandoned- though some are kind of ideas I've thought about and may interest you, so I've left whatever work (if any) I've done. 🤷‍♀️ I may swing back yet... Occasionally I'll pick one of them back up out of the blue and update it. Most of it is ideas in search of an audience.
 
