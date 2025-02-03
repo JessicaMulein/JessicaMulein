@@ -8,6 +8,12 @@
 - Open Source advocate and contributor
 - Advocate for women's, minority, and disabled rights
 
+No one knows how much time we have, but if you want to call it a gift- I've been given the foresight of knowing I don't have decades to live. Sooner or later I am going to need to put aside my coding and work on the things that matter in my life and to my wife. There are a great many things in my digital empire I need to convey to her and there are a great many things I need to clean up and filter out and give away.
+
+There is a time for hope, and when that is gone, there is a time for closure and making final arrangements. It is time I accepted that. The hope is slipping away. There could be a medical breakthrough in the next few years, but with the hits to federal research funding and shackles on how doctors and researchers are forced to work right now, I'm not optimistic they will find a solution in time.
+
+Digital Defiance needs a new leader, and my projects need a new torchbearer. If you have any interest in maintaining or progressing any of my projects, BrightChain, etc, please let me know.
+
 ---
 
 🔭 **Current Projects**
