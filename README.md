@@ -67,7 +67,7 @@ Software Engineering, Music, Writing. I've been programming since ~1987, profess
 - **Mastodon:** [@jmulein@mastodon.social](https://mastodon.social/@jmulein)
 - **LinkedIn:** [linkedin.com/in/jessicamulein](https://www.linkedin.com/in/jessicamulein/)
 
-😄 **Pronouns:** Mercurial/Highness/Majesty (she/her if you really want to know)
+😄 **Pronouns:** Highness/Majesty (she/her if you really want to know)
 
 ⚡ **Fun Fact**
 
