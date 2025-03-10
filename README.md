@@ -2,7 +2,7 @@
 
 **About Me**
 
-- Software Engineer at Microsoft
+- Software Engineer with 25+ years of experience at Microsoft, DHI/Dice, Webfilings/Workiva, and other companies including an internet service provider she started/founded at age 13 which is still in business.
 - Musician and composer with music available on most streaming services
 - President/COO and founder of [Digital Defiance](https://digitaldefiance.org), a non-profit Open Source Engineering Guild
 - Open Source advocate and contributor
