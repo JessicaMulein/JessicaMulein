@@ -33,6 +33,7 @@ I'm always working on side projects and enjoy starting new things. I usually cir
 
   - [BrightChain - MERN](https://github.com/Digital-Defiance/BrightChain)
   - [Dominion Assistant - React](https://github.com/Digital-Defiance/DominionAssistant)
+  - [Star Realms Assistant - React](https://github.com/Digital-Defiance/StarRealmsAssistant)
   - [OpenBook - NodeJS](https://github.com/Digital-Defiance/OpenBook)
   - [Chili and Cilantro - MERN](https://github.com/Digital-Defiance/chili-and-cilantro)
 
