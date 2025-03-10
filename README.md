@@ -65,6 +65,7 @@ Software Engineering, Music, Writing. I've been programming since ~1987, profess
 - **Email:** jessica [at] mulein [dot] com
 - **Website:** [jessicamulein.com](https://jessicamulein.com)
 - **Linktree:** [linktr.ee/jmulein](https://linktr.ee/jmulein)
+- **BlueSky:** [https://bsky.app/profile/jessicamulein.bsky.social](https://bsky.app/profile/jessicamulein.bsky.social)
 - **Mastodon:** [@jmulein@mastodon.social](https://mastodon.social/@jmulein)
 - **LinkedIn:** [linkedin.com/in/jessicamulein](https://www.linkedin.com/in/jessicamulein/)
 
