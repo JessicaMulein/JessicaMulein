@@ -28,6 +28,7 @@ interface Repository {
 const GitHubStats = () => {
   const [user, setUser] = useState<GitHubUser | null>(null);
   const [repos, setRepos] = useState<Repository[]>([]);
+  const [allRepos, setAllRepos] = useState<Repository[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [ref, inView] = useInView({
@@ -46,15 +47,25 @@ const GitHubStats = () => {
         const userData = await userResponse.json();
         setUser(userData);
 
-        // Fetch repositories (top 6 by stars)
-        const reposResponse = await fetch(
-          "https://api.github.com/users/JessicaMulein/repos?sort=updated&per_page=100"
-        );
-        if (!reposResponse.ok) throw new Error("Failed to fetch repositories");
-        const reposData = await reposResponse.json();
+        // Fetch repositories from both personal and Digital-Defiance org
+        const [personalReposResponse, orgReposResponse] = await Promise.all([
+          fetch("https://api.github.com/users/JessicaMulein/repos?sort=updated&per_page=100"),
+          fetch("https://api.github.com/orgs/Digital-Defiance/repos?sort=updated&per_page=100")
+        ]);
+        
+        if (!personalReposResponse.ok || !orgReposResponse.ok) {
+          throw new Error("Failed to fetch repositories");
+        }
+        
+        const personalRepos = await personalReposResponse.json();
+        const orgRepos = await orgReposResponse.json();
+        
+        // Combine all repos
+        const allRepos = [...personalRepos, ...orgRepos];
+        setAllRepos(allRepos);
 
         // Sort by stars and take top 6
-        const sortedRepos = reposData
+        const sortedRepos = allRepos
           .sort(
             (a: Repository, b: Repository) =>
               b.stargazers_count - a.stargazers_count
@@ -107,11 +118,12 @@ const GitHubStats = () => {
     );
   }
 
-  const totalStars = repos.reduce(
+  const totalStars = allRepos.reduce(
     (sum, repo) => sum + repo.stargazers_count,
     0
   );
-  const totalForks = repos.reduce((sum, repo) => sum + repo.forks_count, 0);
+  const totalForks = allRepos.reduce((sum, repo) => sum + repo.forks_count, 0);
+  const totalRepos = allRepos.length;
 
   return (
     <section className="github-stats" id="github" ref={ref}>
@@ -132,8 +144,8 @@ const GitHubStats = () => {
           <motion.div className="stats-overview" variants={itemVariants}>
             <div className="stat-card glass">
               <FaCodeBranch className="stat-icon" />
-              <div className="stat-value">{user.public_repos}</div>
-              <div className="stat-label">Public Repos</div>
+              <div className="stat-value">{totalRepos}</div>
+              <div className="stat-label">Total Repos</div>
             </div>
             <div className="stat-card glass">
               <FaStar className="stat-icon" />
