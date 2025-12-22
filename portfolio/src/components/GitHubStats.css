@@ -1,0 +1,151 @@
+.github-stats {
+  background: var(--bg-primary);
+}
+
+.github-stats-container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.loading,
+.error {
+  text-align: center;
+  padding: 4rem 0;
+  font-size: 1.2rem;
+  color: var(--text-secondary);
+}
+
+.stats-overview {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem;
+  margin-bottom: 4rem;
+}
+
+.stat-card {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.stat-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 255, 136, 0.2);
+}
+
+.stat-icon {
+  font-size: 2.5rem;
+  color: var(--accent-primary);
+}
+
+.stat-value {
+  font-size: 2.5rem;
+  font-weight: 700;
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.top-repos {
+  margin-top: 3rem;
+}
+
+.top-repos h3 {
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  color: var(--accent-primary);
+}
+
+.repos-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 2rem;
+}
+
+.repo-card {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s ease;
+  height: 100%;
+}
+
+.repo-card:hover {
+  box-shadow: 0 12px 40px rgba(0, 255, 136, 0.2);
+}
+
+.repo-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  gap: 1rem;
+}
+
+.repo-header h4 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 0;
+  color: var(--accent-primary);
+}
+
+.language-badge {
+  padding: 0.25rem 0.75rem;
+  background: rgba(0, 153, 255, 0.2);
+  border: 1px solid rgba(0, 153, 255, 0.3);
+  border-radius: 12px;
+  font-size: 0.75rem;
+  color: var(--accent-secondary);
+  white-space: nowrap;
+}
+
+.repo-description {
+  color: var(--text-secondary);
+  line-height: 1.6;
+  flex-grow: 1;
+  font-size: 0.95rem;
+}
+
+.repo-stats {
+  display: flex;
+  gap: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+.repo-stats span {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.repo-stats svg {
+  color: var(--accent-primary);
+}
+
+@media (max-width: 768px) {
+  .stats-overview {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .repos-grid {
+    grid-template-columns: 1fr;
+  }
+}
