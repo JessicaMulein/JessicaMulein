@@ -31,6 +31,9 @@ I'm always working on side projects and enjoy starting new things. I usually cir
 
 **Highlighted Projects:**
 
+  - [Express Suite](https://github.com/Digital-Defiance/express-suite)
+  - [AI Capabilities Suite](https://github.com/Digital-Defiance/ai-capabilities-suite)
+  - [Akira](https://github.com/Digital-Defiance/Akira)
   - [BrightChain - MERN](https://github.com/Digital-Defiance/BrightChain)
   - [Dominion Assistant - React](https://github.com/Digital-Defiance/DominionAssistant)
   - [Star Realms Assistant - React](https://github.com/Digital-Defiance/StarRealmsAssistant)
