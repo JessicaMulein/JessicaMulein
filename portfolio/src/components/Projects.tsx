@@ -27,6 +27,7 @@ const projects: Project[] = [
       "Enterprise-grade MCP (Model Context Protocol) tools suite with debugger, screenshot capture, and process management capabilities.",
     tech: ["TypeScript", "MCP", "VS Code", "Docker", "NPM"],
     github: "https://github.com/Digital-Defiance/ai-capabilities-suite",
+    docUrl: "https://digital-defiance.github.io/ai-capabilities-suite/",
     category: "Production",
     stats: {
       coverage: "94.53%",
