@@ -9,6 +9,7 @@ interface Project {
   tech: string[];
   github: string;
   liveUrl?: string;
+  docUrl?: string;
   googlePlay?: string;
   stats?: {
     stars?: number;
@@ -44,6 +45,7 @@ const projects: Project[] = [
       "Comprehensive MERN stack monorepo with 9+ packages for full-stack development including i18n, ECIES cryptography, and authentication.",
     tech: ["TypeScript", "Express.js", "React", "MongoDB", "NX"],
     github: "https://github.com/Digital-Defiance/express-suite",
+    docUrl: "https://digital-defiance.github.io/express-suite/",
     category: "Production",
     highlights: [
       "Full ECIES encryption for browser & Node",
@@ -249,6 +251,16 @@ const Projects = () => {
                     className="project-link"
                   >
                     <FaExternalLinkAlt /> Live Site
+                  </a>
+                )}
+                {project.docUrl && (
+                  <a
+                    href={project.docUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="project-link"
+                  >
+                    <FaExternalLinkAlt /> Documentation
                   </a>
                 )}
                 {project.googlePlay && (
