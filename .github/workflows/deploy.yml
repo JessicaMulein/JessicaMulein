@@ -36,6 +36,12 @@ jobs:
         working-directory: ./portfolio
         run: npm run build
 
+      - name: Add .nojekyll file
+        run: touch ./portfolio/dist/.nojekyll
+
+      - name: Copy CNAME
+        run: cp CNAME ./portfolio/dist/CNAME
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
