@@ -1,6 +1,12 @@
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
-import { FaGithub, FaExternalLinkAlt, FaStar, FaCode } from "react-icons/fa";
+import {
+  FaGithub,
+  FaExternalLinkAlt,
+  FaStar,
+  FaCode,
+  FaBook,
+} from "react-icons/fa";
 import "./Projects.css";
 
 interface Project {
@@ -9,6 +15,7 @@ interface Project {
   tech: string[];
   github: string;
   liveUrl?: string;
+  projectUrl?: string;
   docUrl?: string;
   googlePlay?: string;
   stats?: {
@@ -27,7 +34,7 @@ const projects: Project[] = [
       "Enterprise-grade MCP (Model Context Protocol) tools suite with debugger, screenshot capture, and process management capabilities.",
     tech: ["TypeScript", "MCP", "VS Code", "Docker", "NPM"],
     github: "https://github.com/Digital-Defiance/ai-capabilities-suite",
-    docUrl: "https://digital-defiance.github.io/ai-capabilities-suite/",
+    projectUrl: "https://digital-defiance.github.io/ai-capabilities-suite/",
     category: "Production",
     stats: {
       coverage: "94.53%",
@@ -46,7 +53,7 @@ const projects: Project[] = [
       "Comprehensive MERN stack monorepo with 9+ packages for full-stack development including i18n, ECIES cryptography, and authentication.",
     tech: ["TypeScript", "Express.js", "React", "MongoDB", "NX"],
     github: "https://github.com/Digital-Defiance/express-suite",
-    docUrl: "https://digital-defiance.github.io/express-suite/",
+    projectUrl: "https://digital-defiance.github.io/express-suite/",
     category: "Production",
     highlights: [
       "Full ECIES encryption for browser & Node",
@@ -61,6 +68,7 @@ const projects: Project[] = [
       "VS Code extension for spec-driven development using EARS requirements syntax with MCP integration and property-based testing.",
     tech: ["TypeScript", "VS Code API", "MCP", "fast-check"],
     github: "https://github.com/Digital-Defiance/Akira",
+    projectUrl: "https://digital-defiance.github.io/Akira/",
     category: "Active",
     highlights: [
       "Requirements → Design → Tasks workflow",
@@ -261,7 +269,17 @@ const Projects = () => {
                     rel="noopener noreferrer"
                     className="project-link"
                   >
-                    <FaExternalLinkAlt /> Documentation
+                    <FaBook /> Documentation
+                  </a>
+                )}
+                {project.projectUrl && (
+                  <a
+                    href={project.projectUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="project-link"
+                  >
+                    <FaExternalLinkAlt /> Project Site
                   </a>
                 )}
                 {project.googlePlay && (
