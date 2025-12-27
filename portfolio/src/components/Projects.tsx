@@ -83,6 +83,7 @@ const projects: Project[] = [
       "Next-generation blockchain with Owner-Free File System, decentralized identity, and cryptographic voting capabilities.",
     tech: ["TypeScript", "NX", "React", "Express", "MongoDB"],
     github: "https://github.com/Digital-Defiance/BrightChain",
+    projectUrl: "https://github.brightchain.org",
     category: "Active",
     highlights: [
       "ECIES encryption with AES-256-GCM",
