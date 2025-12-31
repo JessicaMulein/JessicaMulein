@@ -42,6 +42,9 @@ jobs:
       - name: Copy CNAME
         run: cp CNAME ./portfolio/dist/CNAME
 
+      - name: Copy 404.html for SPA routing
+        run: cp ./portfolio/public/404.html ./portfolio/dist/404.html
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
