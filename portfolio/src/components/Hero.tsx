@@ -62,6 +62,9 @@ const Hero = ({ scrollY }: HeroProps) => {
           <a href="#projects" className="btn btn-primary">
             View Projects
           </a>
+          <a href="/blog" className="btn btn-secondary">
+            Blog
+          </a>
           <a href="#contact" className="btn btn-secondary">
             Get in Touch
           </a>
