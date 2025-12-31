@@ -6,6 +6,7 @@ import {
   FaStar,
   FaCode,
   FaBook,
+  FaNpm,
 } from "react-icons/fa";
 import "./Projects.css";
 
@@ -16,6 +17,7 @@ interface Project {
   github: string;
   liveUrl?: string;
   projectUrl?: string;
+  npmPackage?: string;
   docUrl?: string;
   googlePlay?: string;
   stats?: {
@@ -68,6 +70,7 @@ const projects: Project[] = [
     tech: ["TypeScript", "Node.js", "Apple Silicon"],
     github: "https://github.com/Digital-Defiance/node-accelerate",
     projectUrl: "https://digital-defiance.github.io/node-accelerate/",
+    npmPackage: "https://www.npmjs.com/package/@digitaldefiance/node-accelerate",
     category: "Production",
     highlights: [
       "283x faster matrix operations",
@@ -267,6 +270,16 @@ const Projects = () => {
                 >
                   <FaGithub /> GitHub
                 </a>
+                {project.npmPackage && (
+                <a
+                  href={project.npmPackage}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="project-link"
+                >
+                  <FaNpm /> NPM
+                </a>
+                )}
                 {project.liveUrl && (
                   <a
                     href={project.liveUrl}
