@@ -63,6 +63,20 @@ const projects: Project[] = [
     ],
   },
   {
+    title: "Node Accelerate",
+    description: "High-performance Apple Accelerate framework bindings for Node.js. Get 283x faster matrix operations and 5-8x faster vector operations on Apple Silicon (M1/M2/M3/M4).",
+    tech: ["TypeScript", "Node.js", "Apple Silicon"],
+    github: "https://github.com/Digital-Defiance/node-accelerate",
+    projectUrl: "https://digital-defiance.github.io/node-accelerate/",
+    category: "Production",
+    highlights: [
+      "283x faster matrix operations",
+      "5-8x faster vector operations",
+      "Apple Silicon support",
+      "TypeScript bindings",
+    ],
+  },
+  {
     title: "Akira",
     description:
       "VS Code extension for spec-driven development using EARS requirements syntax with MCP integration and property-based testing.",
