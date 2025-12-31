@@ -367,7 +367,7 @@ Everything is on GitHub:
 - Benchmarking tools
 - Documentation
 
-[Link to repository]
+[GitHub](https://github.com/Digital-Defiance/node-accelerate) | [NPM](https://www.npmjs.com/package/@digitaldefiance/node-accelerate)
 
 ## Conclusion
 
