@@ -2,7 +2,7 @@
 title: The 2GB Clipboard Manager: Why I Scrapped a "Finished" App and Rebuilt It in 10 Minutes
 date: 2026-01-03
 author: Jessica Mulein
-excerpt: I spent days building a "slim" clipboard app in Python, only to end up with a 2.1GB installer because of framework bloat. I scrapped the whole thing, let AI rewrite it in Swift in just 10 minutes, and ended up with a cleaner, native app that’s only 1MB. Sometimes the best way to "fix" your code is to switch the foundation.
+excerpt: I spent hours building a "slim" clipboard app in Python, only to end up with a 2.1GB installer because of framework bloat. I scrapped the whole thing, let AI rewrite it in Swift in just 10 minutes, and ended up with a cleaner, native app that’s only 1MB. Sometimes the best way to "fix" your code is to switch the foundation.
 ---
 
 # The 2GB Clipboard Manager: Why I Scrapped a "Finished" App and Rebuilt It in 10 Minutes
@@ -38,7 +38,7 @@ The results were honestly embarrassing for my original Python version:
 | **Metric**           | **Python + PyQt (The Fail)**  | **Swift + SwiftUI (The Win)**           |
 | -------------------- | ----------------------------- | --------------------------------------- |
 | **Installer Size**   | **2,100 MB**                  | **1 MB**                                |
-| **Development Time** | Days of "fighting" frameworks | **10 minutes** (plus 2 hours of polish) |
+| **Development Time** | Hours of "fighting" frameworks | **10 minutes** (plus 2 hours of polish) |
 | **RAM Usage**        | ~200 MB                       | **14 MB**                               |
 | **UX**               | "Close enough" to Mac         | **Native and seamless**                 |
 
