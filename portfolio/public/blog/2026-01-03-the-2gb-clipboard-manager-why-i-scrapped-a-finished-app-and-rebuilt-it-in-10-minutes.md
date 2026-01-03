@@ -47,3 +47,5 @@ The results were honestly embarrassing for my original Python version:
 The lesson here isn't just "Python is heavy." The lesson is that **language loyalty is a trap.** In the past, scrapping a project meant weeks of retraining and manual rewriting. Today, if you realize you’ve built your house on the wrong foundation, you can move the entire structure in an afternoon.
 
 The AI allowed me to pivot from a "useless" 2GB behemoth to a professional, 1MB native app in less time than it took to download the original's dependencies. Don't be afraid to scrap your "finished" work if the foundation is wrong. The rewrite might only take ten minutes.
+
+[https://digital-defiance.github.io/Kliply](https://digital-defiance.github.io/Kliply)
