@@ -7,6 +7,7 @@ import {
   FaCode,
   FaBook,
   FaNpm,
+  FaChartLine,
 } from "react-icons/fa";
 import "./Projects.css";
 
@@ -24,6 +25,7 @@ interface Project {
     stars?: number;
     downloads?: string;
     coverage?: string;
+    tests?: string;
   };
   highlights: string[];
   category: "Active" | "Production" | "Legacy";
@@ -63,6 +65,41 @@ const projects: Project[] = [
       "Express framework with auth & DB",
       "Monorepo generator CLI",
     ],
+  },
+  {
+    title: 'EECP - Ephemeral Encrypted Collaboration Protocol',
+    description:
+      'Zero-knowledge, self-destructing collaborative workspace with real-time document collaboration and cryptographic guarantees of content unreadability after expiration.',
+    tech: ['TypeScript', 'React 19', 'Yjs CRDT', 'AES-256-GCM', 'ECIES', 'Nx Monorepo'],
+    github: 'https://github.com/Digital-Defiance/digitaldefiance-eecp',
+    projectUrl: 'https://digital-defiance.github.io/digitaldefiance-eecp',
+    category: 'Production',
+    stats: {
+      tests: '500+ tests',
+      coverage: 'Property-based testing',
+    },
+    highlights: [
+      'Zero-knowledge server with encrypted CRDT collaboration',
+      'Temporal key derivation with automatic rotation',
+      'Multi-recipient encryption with ECIES',
+      'Complete monorepo with 7 packages and browser demo',
+    ],
+  },
+  {
+    title: 'Secrets.js (fork)',
+    description:
+      "Enhanced implementation of Shamir's Secret Sharing for secure data splitting and reconstruction with threshold recovery for passwords, keys, and files.",
+    tech: ["Shamir's Secret Sharing", 'Data Security', 'TypeScript', 'CSPRNG'],
+    github: 'https://github.com/Digital-Defiance/secrets-ts',
+    category: 'Production',
+    highlights: [
+      'Configurable t-of-n threshold recovery',
+      'Cure53 security audit with zero issues',
+      'Native browser & Node.js support',
+      'Up to 1,048,575 shares with Galois field',
+    ],
+    npmPackage: 'https://www.npmjs.com/package/@digitaldefiance/secrets',
+    projectUrl: 'https://digital-defiance.github.io/secrets-ts',
   },
   {
     title: "Node Accelerate",
@@ -242,6 +279,12 @@ const Projects = () => {
                     <div className="stat">
                       <FaStar />
                       <span>{project.stats.downloads}</span>
+                    </div>
+                  )}
+                  {project.stats.tests && (
+                    <div className="stat">
+                      <FaChartLine />
+                      <span>{project.stats.tests}</span>
                     </div>
                   )}
                 </div>
