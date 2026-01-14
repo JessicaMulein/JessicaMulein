@@ -102,6 +102,26 @@ const projects: Project[] = [
     projectUrl: 'https://digital-defiance.github.io/secrets-ts',
   },
   {
+    title: 'Luhn Mod N',
+    description:
+      'Enterprise-grade check digit algorithm for TypeScript supporting bases 2-16. Generate and validate check digits for credit cards, serial numbers, and identifiers with full type safety.',
+    tech: ['TypeScript', 'Algorithm', 'Error Detection', 'Zero Dependencies'],
+    github: 'https://github.com/Digital-Defiance/Luhn-mod-n-ts',
+    npmPackage: 'https://www.npmjs.com/package/@digitaldefiance/luhn-mod-n',
+    projectUrl: 'https://digital-defiance.github.io/Luhn-mod-n-ts',
+    category: 'Production',
+    stats: {
+      tests: '66 tests',
+      coverage: '100%',
+    },
+    highlights: [
+      'Multi-base support (binary to hexadecimal)',
+      'Detects single-digit & transposition errors',
+      'SOLID architecture with factory pattern',
+      'Generic services for arrays, strings, numbers, BigInts',
+    ],
+  },
+  {
     title: "Node Accelerate",
     description: "High-performance Apple Accelerate framework bindings for Node.js. Get 283x faster matrix operations and 5-8x faster vector operations on Apple Silicon (M1/M2/M3/M4).",
     tech: ["TypeScript", "Node.js", "Apple Silicon"],
