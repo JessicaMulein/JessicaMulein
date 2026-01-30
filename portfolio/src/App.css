@@ -58,12 +58,26 @@ section {
   position: relative;
 }
 
-/* Animated gradient text */
+/* Animated gradient text - cross-browser compatible */
 .gradient-text {
-  background: var(--gradient-primary);
+  background-image: var(--gradient-primary);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
   background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  color: transparent;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  /* Ensure proper rendering in Edge */
+  will-change: contents;
+}
+
+/* Centered gradient text for section titles */
+.section-title.gradient-text {
+  display: block;
+  width: 100%;
 }
 
 /* Glass morphism effect */

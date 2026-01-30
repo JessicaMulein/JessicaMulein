@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
+import { FaBluesky } from "react-icons/fa6";
 import {
   FaGithub,
   FaLinkedin,
@@ -87,6 +88,19 @@ const Contact = () => {
                 </div>
               </a>
 
+              <a
+                href="https://bsky.app/profile/jessicamulein.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="contact-method"
+              >
+                <FaBluesky />
+                <div>
+                  <div className="method-label">Bluesky</div>
+                  <div className="method-value">@jessicamulein.com</div>
+                </div>
+              </a>
+
               <div className="contact-method">
                 <FaMapMarkerAlt />
                 <div>
@@ -138,7 +152,7 @@ const Contact = () => {
         </div>
 
         <motion.div className="footer" variants={itemVariants}>
-          <p>© 2025 Jessica Mulein. Built with React, TypeScript, and ❤️</p>
+          <p>© 2026 Jessica Mulein. Built with React, TypeScript, and ❤️</p>
           <div className="footer-links">
             <a
               href="https://github.com/JessicaMulein/portfolio"

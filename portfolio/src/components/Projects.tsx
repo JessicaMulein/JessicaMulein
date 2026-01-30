@@ -9,6 +9,7 @@ import {
   FaNpm,
   FaChartLine,
 } from "react-icons/fa";
+import { GrAppleAppStore } from "react-icons/gr";
 import "./Projects.css";
 
 interface Project {
@@ -19,6 +20,7 @@ interface Project {
   liveUrl?: string;
   projectUrl?: string;
   npmPackage?: string;
+  appleAppStore?: string;
   docUrl?: string;
   googlePlay?: string;
   stats?: {
@@ -86,6 +88,46 @@ const projects: Project[] = [
     ],
   },
   {
+    title: 'Kliply',
+    description:
+      'A powerful clipboard manager for macOS, inspired by Windows\' Win+V clipboard history feature.',
+    tech: ['Swift', 'SwiftUI', 'macOS', 'Clipboard Management'],
+    github: 'https://github.com/Digital-Defiance/kliply',
+    appleAppStore: 'https://apps.apple.com/us/app/kliply/id6757326539?mt=12%0AKliply',
+    highlights: [
+      '🔥 Global Hotkey: Quick access with Cmd+Shift+V (customizable)',
+      '📋 Smart Clipboard Tracking: Automatically captures text, rich text, images, URLs, and files',
+      '🔍 Instant Search: Find any clipboard item instantly',
+      '🏷️ Category Filters: Filter by Text, Images, URLs, or Files',
+      '⌨️ Keyboard Navigation: Navigate with arrows, select with Enter, close with Esc',
+      '🎨 Rich Previews: See formatted text, images, and URL metadata',
+      '🌓 Dark Mode: Seamlessly integrates with macOS appearance',
+      '🔒 Privacy-Focused: All history stored in memory only, no disk writes',
+      '⚡ Lightning Fast: Event-driven architecture for instant response',
+      '🎯 Smart Paste: Automatically pastes back to the previously focused app',
+      '🛡️ Exclusion List: Auto-detect and exclude password managers (1Password, LastPass, etc.) and sensitive apps',
+    ],
+    category: 'Production',
+  },
+  {
+    title: 'Enclave/Enclave Bridge Client',
+    description:
+      'Enclave Bridge is a macOS application (SwiftUI, Apple Silicon only) that acts as a secure bridge between Node.js applications and the Apple Silicon Secure Enclave. It exposes Secure Enclave cryptographic operations (key generation, signing, decryption) to Node.js via a Unix file socket, using ECIES encryption (secp256k1) compatible with the @digitaldefiance/node-ecies-lib protocol and designed specifically for use with @digitaldefiance/enclave-bridge-client.',
+    tech: ['Swift', 'TypeScript', 'Node.js', 'ECIES', 'Apple Secure Enclave'],
+    github: 'https://github.com/Digital-Defiance/enclave-bridge',
+    npmPackage: 'https://www.npmjs.com/package/@digitaldefiance/enclave-bridge-client',
+    appleAppStore: 'https://apps.apple.com/us/app/enclave-bridge/id6758280835?mt=12',
+    category: 'Production',
+    highlights: [
+      '🔐 Secure Enclave Integration - Hardware-backed P-256 keys stored in Apple\'s Secure Enclave',
+      '🔑 ECIES Encryption - secp256k1 ECIES with AES-256-GCM, fully compatible with @digitaldefiance/node-ecies-lib',
+      '🔌 Unix Socket IPC - Fast, secure local communication between Node.js and native macOS',
+      '📱 Status Bar App - Lightweight SwiftUI app running in the menu bar',
+      '📊 Real-time Monitoring - View active connections, key status, and statistics',
+      '🛡️ Zero Trust - All communication encrypted end-to-end with ECIES',
+    ]
+  },
+  {
     title: 'Secrets.js (fork)',
     description:
       "Enhanced implementation of Shamir's Secret Sharing for secure data splitting and reconstruction with threshold recovery for passwords, keys, and files.",
@@ -100,6 +142,20 @@ const projects: Project[] = [
     ],
     npmPackage: 'https://www.npmjs.com/package/@digitaldefiance/secrets',
     projectUrl: 'https://digital-defiance.github.io/secrets-ts',
+  },
+  {
+    title: 'branded-enum',
+    description: 'Runtime-identifiable enum-like types for TypeScript with zero runtime overhead. Standard TypeScript enums are erased at compile time, making it impossible to determine which enum a string value originated from at runtime. This becomes problematic in large codebases with multiple libraries that may have overlapping string values.',
+    tech: ['TypeScript', 'Type Safety', 'Zero Dependencies'],
+    github: 'https://github.com/Digital-Defiance/branded-enum',
+    npmPackage: 'https://www.npmjs.com/package/@digitaldefiance/branded-enum',
+    category: 'Production',
+    highlights: [
+      'Enum-like objects with embedded metadata for runtime identification',
+      'Type guards to check if a value belongs to a specific enum',
+      'Global registry to track all branded enums across bundles',
+      'Values as raw strings for zero runtime overhead and serialization compatibility',
+    ]
   },
   {
     title: 'Luhn Mod N',
@@ -381,6 +437,16 @@ const Projects = () => {
                     className="project-link google-play"
                   >
                     <FaExternalLinkAlt /> Google Play
+                  </a>
+                )}
+                {project.appleAppStore && (
+                  <a
+                    href={project.appleAppStore}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="project-link apple-app-store"
+                  >
+                    <GrAppleAppStore /> Apple App Store
                   </a>
                 )}
               </div>

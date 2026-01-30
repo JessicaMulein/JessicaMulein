@@ -21,10 +21,17 @@
 .auth-container h1 {
   font-size: clamp(2rem, 4vw, 3rem);
   margin-bottom: 1rem;
-  background: var(--gradient-primary);
+  background-image: var(--gradient-primary);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
   background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  color: transparent;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  will-change: contents;
 }
 
 .auth-container p {
@@ -109,10 +116,17 @@
 
 .editor-header h1 {
   font-size: clamp(2rem, 4vw, 3rem);
-  background: var(--gradient-primary);
+  background-image: var(--gradient-primary);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
   background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  color: transparent;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  will-change: contents;
 }
 
 .editor-form {

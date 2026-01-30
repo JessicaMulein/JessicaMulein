@@ -90,6 +90,13 @@
   font-size: 1.2rem;
   font-weight: 700;
   margin-bottom: 0.25rem;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+.timeline-narrow {
+  max-width: 300px;
 }
 
 .timeline-company {

@@ -56,7 +56,10 @@ const About = () => {
                 Digital Defiance
               </a>
               , a 501(c)(3) non-profit focused on open source engineering and
-              community empowerment.
+              community empowerment. I also founded <a 
+              href="https://muleinstudios.com" target="_blank" rel="noopener
+              noreferrer">Mulein Studios LLC</a>, a boutique software and media
+              studio dedicated to innovative solutions and creative projects.
             </p>
             <p>
               My expertise spans full-stack development, cloud architecture,
@@ -80,13 +83,20 @@ const About = () => {
               </div>
             </div>
             <div className="timeline-item glass">
-              <div className="timeline-year">2018-2022</div>
-              <div className="timeline-role">Senior Software Engineer</div>
-              <div className="timeline-company">Microsoft / DHI / Dice</div>
+              <div className="timeline-year">2022-Present</div>
+              <div className="timeline-role">Founder</div>
+              <div className="timeline-company">
+                Mulein Studios LLC
+              </div>
+            </div>
+            <div className="timeline-item glass">
+              <div className="timeline-year">2020-Present</div>
+              <div className="timeline-role">Software Engineer II</div>
+              <div className="timeline-company">Microsoft</div>
             </div>
             <div className="timeline-item glass">
               <div className="timeline-year">1995</div>
-              <div className="timeline-role">Founded First ISP</div>
+              <div className="timeline-role timeline-narrow">Founded Internet Service Provider, Silicon Connections LLC</div>
               <div className="timeline-company">Age 13</div>
             </div>
           </motion.div>
