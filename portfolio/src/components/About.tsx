@@ -41,63 +41,63 @@ const About = () => {
         <motion.div className="about-content" variants={itemVariants}>
           <div className="about-text glass">
             <p>
-              With over <strong>25 years</strong> of software engineering
-              experience, I've worn every hat in the technology industry—from
-              founding my first ISP at age 13 to architecting enterprise
-              solutions at Microsoft, DHI, Dice, and Webfilings.
+              With over <strong>35 years</strong> of engagement with code, I have spent my career exploring the 
+              structural integrity of digital systems. From founding my first ISP at age 13 to architecting 
+              foundational solutions at <strong>Microsoft</strong>, I have always been driven by the 
+              pursuit of elegant, zero-knowledge architecture.
             </p>
             <p>
-              I'm currently the <strong>President and COO</strong> of{" "}
-              <a
-                href="https://digitaldefiance.org"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
+              I currently serve as the <strong>Founder and Executive Director</strong> of{" "}
+              <a href="https://digitaldefiance.org" target="_blank" rel="noopener noreferrer">
                 Digital Defiance
               </a>
-              , a 501(c)(3) non-profit focused on open source engineering and
-              community empowerment. I also founded <a 
-              href="https://muleinstudios.com" target="_blank" rel="noopener
-              noreferrer">Mulein Studios LLC</a>, a boutique software and media
-              studio dedicated to innovative solutions and creative projects.
+              , a 501(c)(3) non-profit engineering guild dedicated to privacy-first open source innovation. 
+              Through <a href="https://muleinstudios.com" target="_blank" rel="noopener noreferrer">
+              Mulein Studios</a>, I continue to steward bespoke software and media projects that bridge 
+              the gap between technical precision and creative expression.
             </p>
             <p>
-              My expertise spans full-stack development, cloud architecture,
-              blockchain technology, and leading high-performing engineering
-              teams. I'm passionate about creating elegant, scalable solutions
-              and mentoring the next generation of developers.
+              My current research focus is <strong><a href="https://github.brightchain.org">BrightChain</a></strong>—a 20-year vision for a 
+              decentralized filesystem that empowers users with absolute digital sovereignty. I specialize 
+              in high-performance computing, cryptographic security, and the development of 
+              "Owner-Free" ecosystems.
             </p>
             <p>
-              Beyond code, I'm a musician, composer, and advocate for diversity
-              in tech. I believe in building not just software, but communities
-              and opportunities.
+              Beyond the terminal, I am a musician, composer, and advocate for neurodivergent voices 
+              in technology. I believe that the most resilient systems are built not just with code, 
+              but with a deep commitment to community and human rights.
             </p>
           </div>
 
           <motion.div className="timeline" variants={itemVariants}>
             <div className="timeline-item glass">
               <div className="timeline-year">2022-Present</div>
-              <div className="timeline-role">President & COO</div>
+              <div className="timeline-role">Founder & Executive Director</div>
               <div className="timeline-company">
-                Digital Defiance (Non-Profit)
+                Digital Defiance (501c3)
               </div>
             </div>
             <div className="timeline-item glass">
+              <div className="timeline-year">2025-Present</div>
+              <div className="timeline-role">Software Architect</div>
+              <div className="timeline-company">Microsoft</div>
+            </div>
+            <div className="timeline-item glass">
               <div className="timeline-year">2022-Present</div>
-              <div className="timeline-role">Founder</div>
+              <div className="timeline-role">Founder, Principal Creative</div>
               <div className="timeline-company">
                 Mulein Studios LLC
               </div>
             </div>
             <div className="timeline-item glass">
-              <div className="timeline-year">2020-Present</div>
+              <div className="timeline-year">2020-2025</div>
               <div className="timeline-role">Software Engineer II</div>
               <div className="timeline-company">Microsoft</div>
             </div>
             <div className="timeline-item glass">
-              <div className="timeline-year">1995</div>
-              <div className="timeline-role timeline-narrow">Founded Internet Service Provider, Silicon Connections LLC</div>
-              <div className="timeline-company">Age 13</div>
+              <div className="timeline-year">1995-Present</div>
+              <div className="timeline-role">Lifetime Engineer</div>
+              <div className="timeline-company">35+ Years of Development</div>
             </div>
           </motion.div>
         </motion.div>

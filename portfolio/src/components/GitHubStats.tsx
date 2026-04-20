@@ -60,8 +60,14 @@ const GitHubStats = () => {
         const personalRepos = await personalReposResponse.json();
         const orgRepos = await orgReposResponse.json();
         
-        // Combine all repos
-        const allRepos = [...personalRepos, ...orgRepos];
+        // Combine repos, preferring Digital-Defiance versions when names overlap
+        const orgRepoNames = new Set(orgRepos.map((r: Repository) => r.name));
+        const dedupedPersonalRepos = personalRepos.filter(
+          (repo: Repository) => !orgRepoNames.has(repo.name)
+        );
+        const allRepos = [...dedupedPersonalRepos, ...orgRepos].filter(
+          (repo: Repository) => !repo.name.endsWith("-old")
+        );
         setAllRepos(allRepos);
 
         // Sort by stars and take top 6

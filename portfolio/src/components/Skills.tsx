@@ -18,14 +18,16 @@ import {
   SiRedis,
   SiExpress,
 } from "react-icons/si";
+import LinkIcon from './LinkIcon';
 import "./Skills.css";
+import CPlusPlusIcon from "./CPPIcon";
 
 const skillCategories = [
   {
     title: "Frontend",
     skills: [
-      { name: "React", icon: <FaReact />, level: 95 },
-      { name: "TypeScript", icon: <SiTypescript />, level: 95 },
+      { name: "React", icon: <FaReact />, level: 100 },
+      { name: "TypeScript", icon: <SiTypescript />, level: 100 },
       { name: "Vue.js", icon: <FaReact />, level: 85 },
       { name: "Angular", icon: <FaReact />, level: 80 },
     ],
@@ -33,15 +35,17 @@ const skillCategories = [
   {
     title: "Backend",
     skills: [
-      { name: "Node.js", icon: <FaNode />, level: 95 },
+      { name: "Node.js", icon: <FaNode />, level: 100 },
       { name: "Express", icon: <SiExpress />, level: 95 },
       { name: "Python", icon: <FaPython />, level: 85 },
-      { name: "C#/.NET", icon: <FaMicrosoft />, level: 90 },
+      { name: "C#/.NET", icon: <FaMicrosoft />, level: 85 },
+      { name: "C++", icon: <CPlusPlusIcon fill="currentColor" />, level: 90 },
     ],
   },
   {
     title: "Databases",
     skills: [
+      { name: 'BrightDB', icon: <LinkIcon fill="currentColor" />, level: 100 },
       { name: "MongoDB", icon: <SiMongodb />, level: 90 },
       { name: "PostgreSQL", icon: <SiPostgresql />, level: 90 },
       { name: "Redis", icon: <SiRedis />, level: 85 },

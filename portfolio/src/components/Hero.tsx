@@ -39,7 +39,7 @@ const Hero = ({ scrollY }: HeroProps) => {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.4, duration: 0.8 }}
         >
-          Software Engineer & Architect
+          Software Architect
         </motion.h2>
 
         <motion.p
@@ -48,9 +48,9 @@ const Hero = ({ scrollY }: HeroProps) => {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.6, duration: 0.8 }}
         >
-          25 years of experience crafting elegant solutions
+          Architecting the future of decentralized sovereignty.
           <br />
-          From ISP founder at 13 to enterprise architect at Microsoft
+          From ISP founder at age 13 to foundational systems researcher.
         </motion.p>
 
         <motion.div
