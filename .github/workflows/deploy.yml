@@ -24,17 +24,17 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
-          cache: "npm"
-          cache-dependency-path: portfolio/package-lock.json
+          node-version: "22"
+          cache: "yarn"
+          cache-dependency-path: portfolio/yarn.lock
 
       - name: Install dependencies
         working-directory: ./portfolio
-        run: npm ci
+        run: yarn install --frozen-lockfile
 
       - name: Build
         working-directory: ./portfolio
-        run: npm run build
+        run: yarn build
 
       - name: Add .nojekyll file
         run: touch ./portfolio/dist/.nojekyll

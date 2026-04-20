@@ -30,256 +30,217 @@ interface Project {
     tests?: string;
   };
   highlights: string[];
-  category: "Active" | "Production" | "Legacy";
+  category: "Research" | "Production" | "Legacy";
 }
 
 const projects: Project[] = [
   {
-    title: "AI Capabilities Suite",
+    title: "BrightChain",
     description:
-      "Enterprise-grade MCP (Model Context Protocol) tools suite with debugger, screenshot capture, and process management capabilities.",
-    tech: ["TypeScript", "MCP", "VS Code", "Docker", "NPM"],
-    github: "https://github.com/Digital-Defiance/ai-capabilities-suite",
-    projectUrl: "https://digital-defiance.github.io/ai-capabilities-suite/",
-    category: "Production",
+      "A 20-year vision for a next-generation decentralized ecosystem featuring an Owner-Free File System and cryptographic sovereignty.",
+    tech: ["TypeScript", "NX", "React", "Express", "MongoDB"],
+    github: "https://github.com/Digital-Defiance/BrightChain",
+    projectUrl: "https://github.brightchain.org",
+    category: "Research",
+    highlights: [
+      "ECIES encryption with AES-256-GCM for absolute privacy",
+      "Architected the 'Owner-Free File System' (OFFS) protocol",
+      "Decentralized identity and zero-knowledge storage",
+      "Cryptographic voting and consensus mechanisms",
+    ],
+  },
+  {
+    title: "EECP - Ephemeral Encrypted Collaboration Protocol",
+    description:
+      "Zero-knowledge, self-destructing collaborative workspace with cryptographic guarantees of content unreadability after expiration.",
+    tech: ["TypeScript", "React 19", "Yjs CRDT", "AES-256-GCM", "Nx"],
+    github: "https://github.com/Digital-Defiance/digitaldefiance-eecp",
+    projectUrl: "https://digital-defiance.github.io/digitaldefiance-eecp",
+    category: "Research",
     stats: {
-      coverage: "94.53%",
-      downloads: "NPM + VS Code Marketplace",
+      tests: "500+ tests",
+      coverage: "Property-based",
     },
     highlights: [
-      "25+ debugging tools with enterprise security",
-      "1,059 tests with 99.81% pass rate",
-      "Screenshot capture with PII masking",
-      "Published on VS Code Marketplace & NPM",
-    ],
-  },
-  {
-    title: "Express Suite",
-    description:
-      "Comprehensive MERN stack monorepo with 9+ packages for full-stack development including i18n, ECIES cryptography, and authentication.",
-    tech: ["TypeScript", "Express.js", "React", "MongoDB", "NX"],
-    github: "https://github.com/Digital-Defiance/express-suite",
-    projectUrl: "https://digital-defiance.github.io/express-suite/",
-    category: "Production",
-    highlights: [
-      "Full ECIES encryption for browser & Node",
-      "Comprehensive i18n library",
-      "Express framework with auth & DB",
-      "Monorepo generator CLI",
-    ],
-  },
-  {
-    title: 'EECP - Ephemeral Encrypted Collaboration Protocol',
-    description:
-      'Zero-knowledge, self-destructing collaborative workspace with real-time document collaboration and cryptographic guarantees of content unreadability after expiration.',
-    tech: ['TypeScript', 'React 19', 'Yjs CRDT', 'AES-256-GCM', 'ECIES', 'Nx Monorepo'],
-    github: 'https://github.com/Digital-Defiance/digitaldefiance-eecp',
-    projectUrl: 'https://digital-defiance.github.io/digitaldefiance-eecp',
-    category: 'Production',
-    stats: {
-      tests: '500+ tests',
-      coverage: 'Property-based testing',
-    },
-    highlights: [
-      'Zero-knowledge server with encrypted CRDT collaboration',
-      'Temporal key derivation with automatic rotation',
-      'Multi-recipient encryption with ECIES',
-      'Complete monorepo with 7 packages and browser demo',
-    ],
-  },
-  {
-    title: 'Kliply',
-    description:
-      'A powerful clipboard manager for macOS, inspired by Windows\' Win+V clipboard history feature.',
-    tech: ['Swift', 'SwiftUI', 'macOS', 'Clipboard Management'],
-    github: 'https://github.com/Digital-Defiance/kliply',
-    appleAppStore: 'https://apps.apple.com/us/app/kliply/id6757326539?mt=12%0AKliply',
-    highlights: [
-      '🔥 Global Hotkey: Quick access with Cmd+Shift+V (customizable)',
-      '📋 Smart Clipboard Tracking: Automatically captures text, rich text, images, URLs, and files',
-      '🔍 Instant Search: Find any clipboard item instantly',
-      '🏷️ Category Filters: Filter by Text, Images, URLs, or Files',
-      '⌨️ Keyboard Navigation: Navigate with arrows, select with Enter, close with Esc',
-      '🎨 Rich Previews: See formatted text, images, and URL metadata',
-      '🌓 Dark Mode: Seamlessly integrates with macOS appearance',
-      '🔒 Privacy-Focused: All history stored in memory only, no disk writes',
-      '⚡ Lightning Fast: Event-driven architecture for instant response',
-      '🎯 Smart Paste: Automatically pastes back to the previously focused app',
-      '🛡️ Exclusion List: Auto-detect and exclude password managers (1Password, LastPass, etc.) and sensitive apps',
-    ],
-    category: 'Production',
-  },
-  {
-    title: 'Enclave/Enclave Bridge Client',
-    description:
-      'Enclave Bridge is a macOS application (SwiftUI, Apple Silicon only) that acts as a secure bridge between Node.js applications and the Apple Silicon Secure Enclave. It exposes Secure Enclave cryptographic operations (key generation, signing, decryption) to Node.js via a Unix file socket, using ECIES encryption (secp256k1) compatible with the @digitaldefiance/node-ecies-lib protocol and designed specifically for use with @digitaldefiance/enclave-bridge-client.',
-    tech: ['Swift', 'TypeScript', 'Node.js', 'ECIES', 'Apple Secure Enclave'],
-    github: 'https://github.com/Digital-Defiance/enclave-bridge',
-    npmPackage: 'https://www.npmjs.com/package/@digitaldefiance/enclave-bridge-client',
-    appleAppStore: 'https://apps.apple.com/us/app/enclave-bridge/id6758280835?mt=12',
-    category: 'Production',
-    highlights: [
-      '🔐 Secure Enclave Integration - Hardware-backed P-256 keys stored in Apple\'s Secure Enclave',
-      '🔑 ECIES Encryption - secp256k1 ECIES with AES-256-GCM, fully compatible with @digitaldefiance/node-ecies-lib',
-      '🔌 Unix Socket IPC - Fast, secure local communication between Node.js and native macOS',
-      '📱 Status Bar App - Lightweight SwiftUI app running in the menu bar',
-      '📊 Real-time Monitoring - View active connections, key status, and statistics',
-      '🛡️ Zero Trust - All communication encrypted end-to-end with ECIES',
-    ]
-  },
-  {
-    title: 'Secrets.js (fork)',
-    description:
-      "Enhanced implementation of Shamir's Secret Sharing for secure data splitting and reconstruction with threshold recovery for passwords, keys, and files.",
-    tech: ["Shamir's Secret Sharing", 'Data Security', 'TypeScript', 'CSPRNG'],
-    github: 'https://github.com/Digital-Defiance/secrets-ts',
-    category: 'Production',
-    highlights: [
-      'Configurable t-of-n threshold recovery',
-      'Cure53 security audit with zero issues',
-      'Native browser & Node.js support',
-      'Up to 1,048,575 shares with Galois field',
-    ],
-    npmPackage: 'https://www.npmjs.com/package/@digitaldefiance/secrets',
-    projectUrl: 'https://digital-defiance.github.io/secrets-ts',
-  },
-  {
-    title: 'branded-enum',
-    description: 'Runtime-identifiable enum-like types for TypeScript with zero runtime overhead. Standard TypeScript enums are erased at compile time, making it impossible to determine which enum a string value originated from at runtime. This becomes problematic in large codebases with multiple libraries that may have overlapping string values.',
-    tech: ['TypeScript', 'Type Safety', 'Zero Dependencies'],
-    github: 'https://github.com/Digital-Defiance/branded-enum',
-    npmPackage: 'https://www.npmjs.com/package/@digitaldefiance/branded-enum',
-    category: 'Production',
-    highlights: [
-      'Enum-like objects with embedded metadata for runtime identification',
-      'Type guards to check if a value belongs to a specific enum',
-      'Global registry to track all branded enums across bundles',
-      'Values as raw strings for zero runtime overhead and serialization compatibility',
-    ]
-  },
-  {
-    title: 'Luhn Mod N',
-    description:
-      'Enterprise-grade check digit algorithm for TypeScript supporting bases 2-16. Generate and validate check digits for credit cards, serial numbers, and identifiers with full type safety.',
-    tech: ['TypeScript', 'Algorithm', 'Error Detection', 'Zero Dependencies'],
-    github: 'https://github.com/Digital-Defiance/Luhn-mod-n-ts',
-    npmPackage: 'https://www.npmjs.com/package/@digitaldefiance/luhn-mod-n',
-    projectUrl: 'https://digital-defiance.github.io/Luhn-mod-n-ts',
-    category: 'Production',
-    stats: {
-      tests: '66 tests',
-      coverage: '100%',
-    },
-    highlights: [
-      'Multi-base support (binary to hexadecimal)',
-      'Detects single-digit & transposition errors',
-      'SOLID architecture with factory pattern',
-      'Generic services for arrays, strings, numbers, BigInts',
+      "Zero-knowledge server with encrypted CRDT collaboration",
+      "Temporal key derivation with automated rotation",
+      "Multi-recipient encryption via ECIES (secp256k1)",
+      "Designed for high-integrity, ephemeral communication",
     ],
   },
   {
     title: "Node Accelerate",
-    description: "High-performance Apple Accelerate framework bindings for Node.js. Get 283x faster matrix operations and 5-8x faster vector operations on Apple Silicon (M1/M2/M3/M4).",
-    tech: ["TypeScript", "Node.js", "Apple Silicon"],
+    description: "High-performance Apple Accelerate framework bindings for Node.js. Optimized for Apple Silicon architectures (M1 through M4 Max).",
+    tech: ["TypeScript", "Rust", "Apple Silicon", "C++"],
     github: "https://github.com/Digital-Defiance/node-accelerate",
     projectUrl: "https://digital-defiance.github.io/node-accelerate/",
     npmPackage: "https://www.npmjs.com/package/@digitaldefiance/node-accelerate",
     category: "Production",
     highlights: [
-      "283x faster matrix operations",
-      "5-8x faster vector operations",
-      "Apple Silicon support",
-      "TypeScript bindings",
+      "283x faster matrix operations via hardware acceleration",
+      "5-8x faster vector operations on M-series chips",
+      "Zero-copy memory management between Node and native layers",
+      "Architected for scientific and cryptographic computing",
+    ],
+  },
+  {
+    title: "AI Capabilities Suite",
+    description:
+      "Enterprise-grade Model Context Protocol (MCP) tools suite with secure debugging and process management.",
+    tech: ["TypeScript", "MCP", "Docker", "NPM"],
+    github: "https://github.com/Digital-Defiance/ai-capabilities-suite",
+    projectUrl: "https://digital-defiance.github.io/ai-capabilities-suite/",
+    category: "Production",
+    stats: {
+      coverage: "94.53%",
+      downloads: "Marketplace + NPM",
+    },
+    highlights: [
+      "25+ debugging tools with enterprise-grade security",
+      "1,059 tests with a 99.81% pass rate",
+      "Screenshot capture with automated PII masking",
+      "Full VS Code Marketplace and NPM integration",
+    ],
+  },
+  {
+    title: "Express Suite",
+    description:
+      "Comprehensive MERN stack monorepo providing foundational i18n, ECIES cryptography, and authentication services.",
+    tech: ["TypeScript", "Express.js", "React", "MongoDB", "NX"],
+    github: "https://github.com/Digital-Defiance/express-suite",
+    projectUrl: "https://digital-defiance.github.io/express-suite/",
+    category: "Production",
+    highlights: [
+      "End-to-end ECIES encryption for browser and Node.js",
+      "Enterprise-grade internationalization (i18n) framework",
+      "Modular authentication and database abstractions",
+      "Integrated Monorepo generator CLI",
+    ],
+  },
+  {
+    title: "Kliply",
+    description:
+      "A high-performance clipboard manager for macOS, utilizing native event-driven architecture and Secure Enclave principles.",
+    tech: ["Swift", "SwiftUI", "macOS", "AppKit"],
+    github: "https://github.com/Digital-Defiance/kliply",
+    appleAppStore: "https://apps.apple.com/us/app/kliply/id6757326539?mt=12",
+    category: "Production",
+    highlights: [
+      "Privacy-focused: History stored in-memory, no disk writes",
+      "Smart exclusion for 1Password and sensitive apps",
+      "Native Apple Silicon optimization for zero-latency",
+      "Global hotkey integration with rich metadata previews",
+    ],
+  },
+  {
+    title: "Enclave Bridge",
+    description:
+      "Native macOS bridge exposing Apple Secure Enclave cryptographic operations to Node.js via Unix file sockets.",
+    tech: ["Swift", "TypeScript", "Secure Enclave", "Unix IPC"],
+    github: "https://github.com/Digital-Defiance/enclave-bridge",
+    npmPackage: "https://www.npmjs.com/package/@digitaldefiance/enclave-bridge-client",
+    appleAppStore: "https://apps.apple.com/us/app/enclave-bridge/id6758280835?mt=12",
+    category: "Production",
+    highlights: [
+      "Hardware-backed P-256 keys via Secure Enclave",
+      "Zero Trust IPC: All communication encrypted with ECIES",
+      "Fast local Unix Socket communication protocol",
+      "Menu bar monitoring for real-time connection status",
+    ],
+  },
+  {
+    title: "Secrets.js (Refactored)",
+    description:
+      "Advanced implementation of Shamir's Secret Sharing for secure data splitting and threshold recovery.",
+    tech: ["Shamir's Secret Sharing", "TypeScript", "CSPRNG"],
+    github: "https://github.com/Digital-Defiance/secrets-ts",
+    category: "Production",
+    npmPackage: "https://www.npmjs.com/package/@digitaldefiance/secrets",
+    projectUrl: "https://digital-defiance.github.io/secrets-ts",
+    highlights: [
+      "Cure53 security audit compliance with zero issues",
+      "Up to 1,048,575 shares via Galois field arithmetic",
+      "Configurable t-of-n threshold recovery for keys/files",
+      "Native support for both Browser and Node.js environments",
+    ],
+  },
+  {
+    title: "Luhn Mod N",
+    description:
+      "Enterprise-grade check digit algorithm supporting bases 2-16 with full type safety and zero dependencies.",
+    tech: ["TypeScript", "Algorithms", "SOLID Architecture"],
+    github: "https://github.com/Digital-Defiance/Luhn-mod-n-ts",
+    npmPackage: "https://www.npmjs.com/package/@digitaldefiance/luhn-mod-n",
+    projectUrl: "https://digital-defiance.github.io/Luhn-mod-n-ts",
+    category: "Production",
+    stats: {
+      tests: "66 tests",
+      coverage: "100%",
+    },
+    highlights: [
+      "Supports multi-base validation (Binary to Hexadecimal)",
+      "Advanced error detection for transposition and single-digits",
+      "Generic services for Strings, BigInts, and Arrays",
+      "Factory pattern implementation for enterprise extensibility",
     ],
   },
   {
     title: "Akira",
     description:
-      "VS Code extension for spec-driven development using EARS requirements syntax with MCP integration and property-based testing.",
-    tech: ["TypeScript", "VS Code API", "MCP", "fast-check"],
+      "VS Code extension for Spec-Driven Development using EARS syntax and property-based testing integration.",
+    tech: ["TypeScript", "VS Code API", "MCP", "EARS"],
     github: "https://github.com/Digital-Defiance/Akira",
-    projectUrl: "https://digital-defiance.github.io/Akira/",
-    category: "Active",
+    category: "Research",
     highlights: [
-      "Requirements → Design → Tasks workflow",
-      "MCP integration for AI assistance",
-      "Property-based testing support",
-      "Task management integration",
-    ],
-  },
-  {
-    title: "BrightChain",
-    description:
-      "Next-generation blockchain with Owner-Free File System, decentralized identity, and cryptographic voting capabilities.",
-    tech: ["TypeScript", "NX", "React", "Express", "MongoDB"],
-    github: "https://github.com/Digital-Defiance/BrightChain",
-    projectUrl: "https://github.brightchain.org",
-    category: "Active",
-    highlights: [
-      "ECIES encryption with AES-256-GCM",
-      "Owner-Free File System",
-      "Decentralized identity management",
-      "Cryptographic voting system",
+      "Automated Requirements → Design → Task workflow",
+      "MCP integration for real-time AI architectural assistance",
+      "Seamless integration with fast-check for property testing",
+      "Enterprise task management hooks",
     ],
   },
   {
     title: "Star Realms Assistant",
     description:
-      "Production React app for tracking Star Realms card game with player management, statistics, save/load, and mobile support.",
-    tech: ["React", "TypeScript", "Material-UI", "NX", "Capacitor"],
+      "High-fidelity cross-platform application for tracking complex gameplay statistics and authority graphing.",
+    tech: ["React", "TypeScript", "Material-UI", "Capacitor"],
     github: "https://github.com/Digital-Defiance/StarRealmsAssistant",
     liveUrl: "https://starrealmsassistant.com",
     category: "Production",
     highlights: [
-      "Real-time score tracking",
-      "Authority graphing & statistics",
-      "Mobile iOS/Android support",
-      "800+ unit tests",
+      "Real-time authority graphing and session statistics",
+      "Mobile iOS/Android support via Capacitor",
+      "800+ unit tests ensuring game state integrity",
+      "Offline-first architecture with local persistence",
     ],
   },
   {
     title: "Dominion Assistant",
     description:
-      "Production React application for Dominion card game tracking with comprehensive game management and scoring features.",
+      "Comprehensive game management and scoring engine for complex deck-building ecosystems.",
     tech: ["React", "TypeScript", "Material-UI", "NX"],
     github: "https://github.com/Digital-Defiance/DominionAssistant",
     liveUrl: "https://dominionassistant.com",
-    googlePlay:
-      "https://play.google.com/store/apps/details?id=com.digitaldefiance.dominionassistant",
+    googlePlay: "https://play.google.com/store/apps/details?id=com.digitaldefiance.dominionassistant",
     category: "Production",
     highlights: [
-      "Player and turn management",
-      "Dynamic scoring system",
-      "Expansion support",
-      "Available on Google Play",
+      "Dynamic scoring algorithms for all 15+ expansions",
+      "Player turn and state management",
+      "Automated turn tracking and deck-state estimation",
+      "Available on Google Play Store",
     ],
   },
   {
     title: "OpenBook",
     description:
-      "Git-versioned markdown filesystem to MongoDB orchestrator with REST API for non-profit data management.",
-    tech: ["Node.js", "Express", "MongoDB", "Git", "Markdown"],
+      "Git-versioned markdown filesystem to MongoDB orchestrator for non-profit knowledge management.",
+    tech: ["Node.js", "Express", "MongoDB", "Git"],
     github: "https://github.com/Digital-Defiance/OpenBook",
-    category: "Active",
+    category: "Research",
     highlights: [
-      "Markdown to database conversion",
-      "REST API for data queries",
-      "Excel export capabilities",
-      "Version-controlled data",
-    ],
-  },
-  {
-    title: "Chili & Cilantro",
-    description:
-      "Full-stack MERN bluffing game with real-time features, internationalization for 6+ languages, and Pusher integration.",
-    tech: ["React", "Express", "MongoDB", "Pusher", "i18n"],
-    github: "https://github.com/Digital-Defiance/chili-and-cilantro",
-    category: "Active",
-    highlights: [
-      "Real-time multiplayer gameplay",
-      "6+ language support",
-      "NX monorepo architecture",
-      "Pusher websocket integration",
+      "Transforms Markdown repositories into queryable databases",
+      "Full version control for organizational documentation",
+      "Automated Excel export and reporting engines",
+      "Designed for distributed non-profit data transparency",
     ],
   },
 ];
@@ -295,7 +256,7 @@ const Projects = () => {
     visible: {
       opacity: 1,
       transition: {
-        staggerChildren: 0.15,
+        staggerChildren: 0.1,
       },
     },
   };
@@ -317,11 +278,11 @@ const Projects = () => {
           className="section-title gradient-text"
           variants={projectVariants}
         >
-          Featured Projects
+          Selected Projects & Research
         </motion.h2>
 
         <motion.p className="projects-subtitle" variants={projectVariants}>
-          A selection of production-ready open source projects from my portfolio
+          A portfolio of foundational architecture, open-source stewardship, and academic research.
         </motion.p>
 
         <div className="projects-grid">
@@ -390,14 +351,14 @@ const Projects = () => {
                   <FaGithub /> GitHub
                 </a>
                 {project.npmPackage && (
-                <a
-                  href={project.npmPackage}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="project-link"
-                >
-                  <FaNpm /> NPM
-                </a>
+                  <a
+                    href={project.npmPackage}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="project-link"
+                  >
+                    <FaNpm /> NPM
+                  </a>
                 )}
                 {project.liveUrl && (
                   <a
@@ -406,17 +367,7 @@ const Projects = () => {
                     rel="noopener noreferrer"
                     className="project-link"
                   >
-                    <FaExternalLinkAlt /> Live Site
-                  </a>
-                )}
-                {project.docUrl && (
-                  <a
-                    href={project.docUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="project-link"
-                  >
-                    <FaBook /> Documentation
+                    <FaExternalLinkAlt /> Live
                   </a>
                 )}
                 {project.projectUrl && (
@@ -426,17 +377,7 @@ const Projects = () => {
                     rel="noopener noreferrer"
                     className="project-link"
                   >
-                    <FaExternalLinkAlt /> Project Site
-                  </a>
-                )}
-                {project.googlePlay && (
-                  <a
-                    href={project.googlePlay}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="project-link google-play"
-                  >
-                    <FaExternalLinkAlt /> Google Play
+                    <FaBook /> Docs
                   </a>
                 )}
                 {project.appleAppStore && (
@@ -446,7 +387,17 @@ const Projects = () => {
                     rel="noopener noreferrer"
                     className="project-link apple-app-store"
                   >
-                    <GrAppleAppStore /> Apple App Store
+                    <GrAppleAppStore /> App Store
+                  </a>
+                )}
+                {project.googlePlay && (
+                  <a
+                    href={project.googlePlay}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="project-link google-play"
+                  >
+                    <FaExternalLinkAlt /> Play Store
                   </a>
                 )}
               </div>
