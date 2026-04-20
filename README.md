@@ -1,82 +1,53 @@
-### Hi there 👋
+### Hi there 👋 I'm Jessica.
 
-**About Me**
+**Principal Software Architect | Foundational Systems Researcher | Founder of Digital Defiance**
 
-- Software Engineer with 25+ years of experience at Microsoft, DHI/Dice, Webfilings/Workiva, and other companies including an internet service provider she started/founded at age 13 which is still in business.
-- Musician and composer with music available on most streaming services
-- President/COO and founder of [Digital Defiance](https://digitaldefiance.org), a non-profit Open Source Engineering Guild
-- Open Source advocate and contributor
-- Advocate for women's, minority, and disabled rights
-
-No one knows how much time we have, but if you want to call it a gift- I've been given the foresight of knowing I don't have decades to live. Sooner or later I am going to need to put aside my coding and work on the things that matter in my life and to my wife. There are a great many things in my digital empire I need to convey to her and there are a great many things I need to clean up and filter out and give away.
-
-There is a time for hope, and when that is gone, there is a time for closure and making final arrangements. It is time I accepted that. The hope is slipping away. There could be a medical breakthrough in the next few years, but with the hits to federal research funding and shackles on how doctors and researchers are forced to work right now, I'm not optimistic they will find a solution in time.
-
-Digital Defiance needs a new leader, and my projects need a new torchbearer. If you have any interest in maintaining or progressing any of my projects, BrightChain, etc, please let me know.
+- **25+ Years of Engineering:** Deep roots in systems architecture, embedded DSP, and distributed platforms (Microsoft, Workiva, and early ISP founder).
+- **Executive Director @ [Digital Defiance](https://digitaldefiance.org):** Leading a 501(c)(3) non-profit guild dedicated to privacy-first, open-source engineering.
+- **Opus-Level Contributor:** Architect of the **BrightChain** decentralized filesystem and zero-knowledge application platform.
+- **Multidisciplinary Creative:** Musician, composer, and writer with a focus on high-integrity digital ecosystems.
 
 ---
 
-🔭 **Current Projects**
+### 🔭 The Mission: Foundational Sovereignty
 
-I started an Open Source/FOSS Guild called "[Digital Defiance](https://digitaldefiance.org)" ([GitHub](https://github.com/Digital-Defiance)), a non-profit incorporated in Washington State and officially 501(c)(3). It has absorbed most of my projects. We're actively working on several exciting endeavors:
+My focus has shifted from high-pressure corporate delivery to **Foundational Systems Research**. I believe that code is a cognitive necessity—a way to maintain intellectual equilibrium while navigating complex life challenges. My current work is centered on building "Owner-Free" systems that survive the test of time and provide true digital privacy.
 
-- **Connect with Us:**
-  - Keybase: [keybase.io/team/digitaldefiance](https://keybase.io/team/digitaldefiance)
-  - Discord: [discord.gg/8ASAAxzyyM](https://discord.gg/8ASAAxzyyM)
-
-I'm always working on side projects and enjoy starting new things. I usually circle back to projects eventually. Currently, I'm reviving some projects and focusing on:
-
-- TypeScript projects are in [NX](https://nx.dev/) based monorepos and typically MERN stacks
-- Several secret projects currently in private repos, which will be open source upon release. Keep an eye on the [Digital Defiance](https://github.com/Digital-Defiance) organization for updates.
-
-**Highlighted Projects:**
-
-  - [Express Suite](https://github.com/Digital-Defiance/express-suite)
-  - [AI Capabilities Suite](https://github.com/Digital-Defiance/ai-capabilities-suite)
-  - [Akira](https://github.com/Digital-Defiance/Akira)
-  - [BrightChain - MERN](https://github.com/Digital-Defiance/BrightChain)
-  - [Dominion Assistant - React](https://github.com/Digital-Defiance/DominionAssistant)
-  - [Star Realms Assistant - React](https://github.com/Digital-Defiance/StarRealmsAssistant)
-  - [OpenBook - NodeJS](https://github.com/Digital-Defiance/OpenBook)
-  - [Chili and Cilantro - MERN](https://github.com/Digital-Defiance/chili-and-cilantro)
-
-**Older Projects::**
-
-  - [GridIron - C++](https://github.com/Digital-Defiance/gridiron)
-  - [Bailey–Borwein–Plouffe Pi Calculator - C#](https://github.com/JessicaMulein/BBPPiCalculator)
-  - [LUHN-module-n - C#](https://github.com/JessicaMulein/LUHN-mod-n)
-  - [John Walker's ENT - C# port](https://github.com/JessicaMulein/ENT)
-  - [Use Amazon Poly to generate all Asterisk prompts](https://github.com/JessicaMulein/regenerate-asterisk-sounds-from-poly-tts)
-  - [Asterisk prompts generated with Amazon Poly's Sally voice](https://github.com/JessicaMulein/asterisk-custom-poly-sounds)
-
-My older projects aren't totally abandoned—some are ideas I've thought about and may interest you. I will likely revisit them. Most are ideas in search of an audience.
+**Digital Defiance** is the steward of my life’s work. I am currently organizing my "Digital Empire" to ensure these tools are accessible, robust, and community-owned. 
 
 ---
 
-🌱 **Always Learning**
+### 🚀 Highlighted Work
 
-I'm continually expanding my knowledge in various areas, pushing my skills in C#/Blazor, JavaScript, TypeScript, and more. I'm exploring how to leverage AI to expand my capabilities and tackle large projects.
+#### **The Opus: [BrightChain](https://github.com/Digital-Defiance/BrightChain)**
+*A 20-year vision for a decentralized, zero-knowledge filesystem. Built with 10,000+ tests and a focus on absolute structural integrity.*
 
-💬 **Ask Me About**
-
-Software Engineering, Music, Writing. I've been programming since ~1987, professionally since 1994. Experience includes Embedded Systems, DSP, Web/Full Stack. Languages: C/C++, Python, PHP, C#, Java, JavaScript/TypeScript/ECMAScript, ActionScript/Flex, Perl, Go, Pascal, and more.
+- **[Express Suite](https://github.com/Digital-Defiance/express-suite):** Enterprise-grade scaffolding for high-performance Node.js.
+- **[AI Capabilities Suite](https://github.com/Digital-Defiance/ai-capabilities-suite):** Integrating local AI models into decentralized workflows.
+- **[node-rs-accelerate](https://github.com/Digital-Defiance/node-rs-accelerate):** Hardware-accelerated math for Apple Silicon (M4 Max optimized).
 
 ---
 
-📫 **How to Reach Me**
+### 💬 The Knowledge Base
 
-- **Email:** jessica [at] mulein [dot] com
-- **Website:** [jessicamulein.com](https://jessicamulein.com)
-- **Linktree:** [linktr.ee/jmulein](https://linktr.ee/jmulein)
-- **BlueSky:** [https://bsky.app/profile/jessicamulein.bsky.social](https://bsky.app/profile/jessicamulein.bsky.social)
-- **Mastodon:** [@jmulein@mastodon.social](https://mastodon.social/@jmulein)
+I’ve been programming since 1987. Ask me about:
+* **Languages:** C/C++, Rust, TypeScript, C#, Python, Go, and the "ancient arts" (Pascal, Perl).
+* **Specialties:** High-performance computing, Cryptographic storage, Embedded systems, and Neurodivergent-led engineering processes.
+* **Philosophy:** Why "zero-pressure diamonds" are more durable than corporate-pressure coal.
+
+---
+
+### 📫 Connect & Collaborate
+
+I operate at a **self-paced, research-oriented "Snail's Pace."** I am interested in connecting with torchbearers who value privacy and high-integrity architecture.
+
 - **LinkedIn:** [linkedin.com/in/jessicamulein](https://www.linkedin.com/in/jessicamulein/)
+- **Organization:** [GitHub.com/Digital-Defiance](https://github.com/Digital-Defiance)
+- **Email:** jessica [at] mulein [dot] com
 
-😄 **Pronouns:** Highness/Majesty (she/her if you really want to know)
+**Pronouns:** she/her / Highness
 
-⚡ **Fun Fact**
-
-I was once a licensed coal miner and have coded in some of the deepest, darkest places on earth. I've lived rather diverse and separate lives under several names. One of my names is on millions of bookshelves.
+⚡ **Fun Fact:** I’ve coded in deep coal mines, published books found on millions of shelves, and once started an ISP at age 13. My career is a collection of diverse lives, all tied together by the same logical thread.
 
 ---
 
