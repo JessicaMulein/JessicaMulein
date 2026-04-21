@@ -39,7 +39,7 @@ const Hero = ({ scrollY }: HeroProps) => {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.4, duration: 0.8 }}
         >
-          Software Architect
+          Software Architect | Musician
         </motion.h2>
 
         <motion.p

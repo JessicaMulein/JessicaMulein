@@ -1,0 +1,78 @@
+.music {
+  background: var(--bg-primary);
+  padding: 6rem 2rem;
+}
+
+.music-container {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.music-description {
+  font-size: 1.15rem;
+  color: var(--text-secondary);
+  line-height: 1.8;
+  margin-bottom: 3rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.music-platforms {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.music-platform-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  padding: 1.5rem 2rem;
+  min-width: 140px;
+  text-decoration: none;
+  color: var(--text-primary);
+  border-radius: 12px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.music-platform-card:hover {
+  border-color: var(--platform-color);
+  box-shadow: 0 0 20px color-mix(in srgb, var(--platform-color) 25%, transparent);
+}
+
+.music-platform-card:hover .platform-icon {
+  color: var(--platform-color);
+}
+
+.platform-icon {
+  font-size: 2.2rem;
+  transition: color 0.3s ease;
+  color: var(--text-secondary);
+}
+
+.platform-name {
+  font-size: 0.95rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+  .music-platforms {
+    gap: 1rem;
+  }
+
+  .music-platform-card {
+    min-width: 120px;
+    padding: 1.25rem 1.5rem;
+  }
+
+  .platform-icon {
+    font-size: 1.8rem;
+  }
+}

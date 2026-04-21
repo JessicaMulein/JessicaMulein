@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import Hero from "./components/Hero";
 import About from "./components/About";
+import Music from "./components/Music";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import GitHubStats from "./components/GitHubStats";
@@ -20,6 +21,7 @@ function App() {
     <div className="app">
       <Hero scrollY={scrollY} />
       <About />
+      <Music />
       <Projects />
       <Skills />
       <GitHubStats />
