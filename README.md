@@ -7,6 +7,8 @@
 - **Opus-Level Contributor:** Architect of the **BrightChain** decentralized filesystem and zero-knowledge application platform.
 - **Multidisciplinary Creative:** Musician, composer, and writer with a focus on high-integrity digital ecosystems.
 
+I'm building on borrowed time. I have incurable cancer — and while that's not the defining fact of my life, it does sharpen the focus. BrightChain is a 20-year vision, and I intend to see it through as far as I can. If my work resonates with you, now is the time to [get involved](https://github.brightchain.org). If you want to pick my brain, reach out. And if you're moved to do something beyond code, consider supporting the [American Cancer Society](https://donate.cancer.org/).
+
 ---
 
 ### 🔭 The Mission: Foundational Sovereignty
