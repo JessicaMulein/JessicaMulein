@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
+import ACSLogo from '../assets/American_Cancer_Society_Logo.svg';
 import "./About.css";
 
 const About = () => {
@@ -66,6 +67,17 @@ const About = () => {
               Beyond the terminal, I am a musician, composer, and advocate for neurodivergent voices 
               in technology. I believe that the most resilient systems are built not just with code, 
               but with a deep commitment to community and human rights.
+            </p>
+            <p>
+              I'm also building on borrowed time. I have incurable cancer — and while that's not the 
+              defining fact of my life, it does sharpen the focus. BrightChain is a 20-year vision, 
+              and I intend to see it through as far as I can. If my work resonates with you, now is 
+              the time to <a href="https://github.brightchain.org" target="_blank" rel="noopener noreferrer">get involved</a>. 
+              If you want to pick my brain, <a href="#contact">reach out</a>. And if you're moved 
+              to do something beyond code, consider supporting the{" "}
+              <a href="https://donate.cancer.org" target="_blank" rel="noopener noreferrer" className="acs-link">
+                <img src={ACSLogo} height={40} />American Cancer Society
+              </a>.
             </p>
           </div>
 

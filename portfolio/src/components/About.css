@@ -52,6 +52,20 @@
   border-bottom-color: var(--accent-secondary);
 }
 
+.about-text a.acs-link {
+  border-bottom: none;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  vertical-align: middle;
+  padding-left: 5px;
+}
+
+.about-text a.acs-link img {
+  vertical-align: middle;
+}
+
 .timeline {
   display: flex;
   flex-direction: column;

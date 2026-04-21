@@ -51,6 +51,8 @@ const Hero = ({ scrollY }: HeroProps) => {
           Architecting the future of decentralized sovereignty.
           <br />
           From ISP founder at age 13 to foundational systems researcher.
+          <br />
+          Now is the time.
         </motion.p>
 
         <motion.div
