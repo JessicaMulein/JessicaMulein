@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm ~~Jessica~~ Zefram Cochrane.
 
+![Zefram Cochrane](https://media.licdn.com/dms/image/v2/D5622AQH6f8jClr8flg/feedshare-image-high-res/B56Z3qB5zyKYAU-/0/1777747860966?e=1779321600&v=beta&t=npPhv4q-VGjSvMEJGy9bQ5pV252vTjyotBwSaXLfRVk)
+
 **Warp Engineer | Foundational Systems Researcher | Founder of Digital Defiance**
 
 - **35 Years at the Console:** Deep roots in systems architecture, embedded DSP, and distributed platforms (Microsoft, Workiva, and started an ISP at 13).
