@@ -54,7 +54,7 @@ I operate at a **self-paced, research-oriented snail's pace.** I'm looking for t
 
 - **LinkedIn:** [linkedin.com/in/jessicamulein](https://www.linkedin.com/in/jessicamulein/)
 - **Organization:** [GitHub.com/Digital-Defiance](https://github.com/Digital-Defiance)
-- **Email:** jessica [at] mulein [dot] com
+- **Email:** zefram [at] mulein [dot] com
 
 **Pronouns:** she/her / Highness
 
