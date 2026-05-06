@@ -2,7 +2,7 @@
 title: Introducing BrightDate: Timekeeping for the "Owner-Free" Era
 date: 2026-05-06
 author: Jessica Mulein
-excerpt: 
+excerpt: Time in software is often treated as a string-parsing problem rather than a physical constant. BrightDate shifts the paradigm, replacing messy timezones and leap-second ambiguity with a single, crystalline scalar value anchored to the J2000.0 epoch. It’s 'UTC with benefits'—a decimal system where duration is a simple subtraction and the 2038 problem is a non-issue. For the BrightChain ecosystem, this isn't just a utility; it's our universal heartbeat.
 ---
 
 In software engineering, we spend an inordinate amount of time managing "Technical Debt" inherited from the physical world. Perhaps no debt is more expensive than **Time**. Timezones, leap seconds, Gregorian drift, and the dreaded Y2038 problem are constant "background noise" in our distributed systems.
