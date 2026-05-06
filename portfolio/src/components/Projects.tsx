@@ -41,6 +41,7 @@ const projects: Project[] = [
     tech: ["TypeScript", "NX", "React", "Express", "MongoDB"],
     github: "https://github.com/Digital-Defiance/BrightChain",
     projectUrl: "https://github.brightchain.org",
+    liveUrl: 'https://brightchain.org',
     category: "Research",
     highlights: [
       "ECIES encryption with AES-256-GCM for absolute privacy",
