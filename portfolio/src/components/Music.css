@@ -76,3 +76,141 @@
     font-size: 1.8rem;
   }
 }
+
+/* Discography Section */
+.discography-title {
+  font-size: 1.8rem;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+
+.discography-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+  text-align: left;
+}
+
+.song-card {
+  padding: 1.5rem;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  transition: all 0.3s ease;
+}
+
+.song-cover {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  border-radius: 8px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.song-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.song-card:hover .song-cover img {
+  transform: scale(1.03);
+}
+
+.song-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.song-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin: 0;
+}
+
+.song-year {
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  background: rgba(99, 102, 241, 0.15);
+  color: var(--accent-primary);
+  white-space: nowrap;
+}
+
+.song-description {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin: 0;
+}
+
+.song-story-details {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+.song-story-details summary {
+  cursor: pointer;
+  color: var(--accent-primary);
+  font-weight: 600;
+  font-size: 0.9rem;
+  padding: 0.25rem 0;
+  user-select: none;
+}
+
+.song-story-details summary:hover {
+  color: var(--accent-secondary);
+}
+
+.song-story {
+  margin-top: 0.75rem;
+  padding-left: 0.75rem;
+  border-left: 2px solid rgba(99, 102, 241, 0.3);
+  font-style: italic;
+}
+
+.song-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: auto;
+  padding-top: 0.5rem;
+}
+
+.song-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  text-decoration: none;
+  padding: 0.35rem 0.75rem;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: all 0.2s ease;
+}
+
+.song-link:hover {
+  color: var(--accent-primary);
+  border-color: var(--accent-primary);
+  background: rgba(99, 102, 241, 0.1);
+}
+
+@media (max-width: 600px) {
+  .discography-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .discography-title {
+    font-size: 1.5rem;
+    margin-top: 3rem;
+  }
+}
