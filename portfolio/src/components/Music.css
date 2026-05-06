@@ -81,7 +81,20 @@
 .discography-title {
   font-size: 1.8rem;
   margin-top: 4rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.discography-note {
+  font-style: italic;
+  color: var(--text-secondary);
+  font-size: 1rem;
+  line-height: 1.7;
+  max-width: 640px;
+  margin: 0 auto 2.5rem;
+  padding-left: 1rem;
+  border-left: 3px solid var(--accent-primary);
+  text-align: left;
+  opacity: 0.85;
 }
 
 .discography-grid {

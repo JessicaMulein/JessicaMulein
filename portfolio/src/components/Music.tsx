@@ -296,6 +296,12 @@ const Music = () => {
           Discography
         </motion.h3>
 
+        <motion.p className="discography-note" variants={itemVariants}>
+          Most of these tracks are not only 'one take'—they are 'one time only.'
+          I cannot reproduce them again. They are non-reproducible captures of a
+          volatile state of being, frozen in time and never to be re-run.
+        </motion.p>
+
         <div className="discography-grid">
           {discography.map((song, index) => (
             <motion.div
