@@ -85,7 +85,7 @@ const projects: Project[] = [
     description:
       "Port of GNU Findutils (find, xargs, locate) re-engineered to support native decimal time filtering and high-precision scalars.",
     tech: ["C", "GNU Coreutils", "Decimal Filtering"],
-    github: "https://github.com/Digital-Defiance/findutils",
+    github: "https://github.com/Digital-Defiance/findutils-brightdate",
     projectUrl: "https://findutils.brightchain.org",
     category: "Production",
     highlights: [
