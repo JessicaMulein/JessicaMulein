@@ -51,6 +51,66 @@ const projects: Project[] = [
     ],
   },
   {
+    title: "BrightDate",
+    description:
+      "A timezone-free decimal time protocol anchored to the J2000.0 epoch, replacing legacy temporal complexity with a single universal scalar.",
+    tech: ["TypeScript", "Rust", "J2000.0", "Decimal Math"],
+    github: "https://github.com/Digital-Defiance/BrightDate",
+    projectUrl: "https://brightdate.brightchain.org",
+    category: "Production",
+    highlights: [
+      "Eliminates 'Legacy Tax' (DST, timezones, leap seconds)",
+      "High-precision J2000.0 astronomical anchoring",
+      "Native Rust implementation for sub-microsecond precision",
+      "Supports cross-platform synchronization for distributed systems",
+    ],
+  },
+  {
+    title: "BSH (BrightShell)",
+    description:
+      "A high-performance shell environment (forked from Zsh) that treats BrightDate as a native temporal primitive.",
+    tech: ["Zsh", "C", "Shell Scripting", "BrightDate"],
+    github: "https://github.com/Digital-Defiance/bsh",
+    projectUrl: "https://bsh.brightchain.org",
+    category: "Production",
+    highlights: [
+      "Native BrightDate glob modifiers (e.g., *.log(.m-0.01))",
+      "Immutable birth-time (.b) file filtering logic",
+      "Shadowed legacy commands (date, uptime) for decimal parity",
+      "Integrated with Oh-My-BSH for enterprise customization",
+    ],
+  },
+  {
+    title: "Bright-Findutils",
+    description:
+      "Port of GNU Findutils (find, xargs, locate) re-engineered to support native decimal time filtering and high-precision scalars.",
+    tech: ["C", "GNU Coreutils", "Decimal Filtering"],
+    github: "https://github.com/Digital-Defiance/findutils",
+    projectUrl: "https://findutils.brightchain.org",
+    category: "Production",
+    highlights: [
+      "Native -mtime and -atime support for floating-point decimals",
+      "Atomic temporal sorting for multi-million file systems",
+      "Seamless integration with BSH environment variables",
+      "High-velocity log auditing via milliday precision",
+    ],
+  },
+  {
+    title: "Oh-My-BSH",
+    description:
+      "The official configuration framework and widget ecosystem for BrightShell, featuring highly customizable temporal interfaces.",
+    tech: ["TypeScript", "React", "Mobile Widgets", "RGB UI"],
+    github: "https://github.com/Digital-Defiance/ohmybsh",
+    projectUrl: "https://ohmybsh.brightchain.org",
+    category: "Research",
+    highlights: [
+      "Cross-platform BrightDate mobile widget with RGB picker",
+      "Enterprise theme engine for secure terminal environments",
+      "Plugin architecture for custom decimal time complications",
+      "Central hub for the Digital Defiance user experience",
+    ],
+  },
+  {
     title: "EECP - Ephemeral Encrypted Collaboration Protocol",
     description:
       "Zero-knowledge, self-destructing collaborative workspace with cryptographic guarantees of content unreadability after expiration.",
