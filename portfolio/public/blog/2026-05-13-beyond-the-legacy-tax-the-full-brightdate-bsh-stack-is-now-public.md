@@ -46,4 +46,4 @@ In a decentralized, zero-knowledge filesystem, "Local Time" is a vulnerability a
 
 **The chsh Challenge:** If you’re tired of the legacy mess, take the challenge. Switch your login shell to `bsh` for one week. Stop translating. Start thinking in rotation.
 
-**Digital Defiance** | *Owner-Free. Timezone-Free. Legacy-Free.*
+**BrightChain** | *Owner-Free. Timezone-Free. Legacy-Free.*
