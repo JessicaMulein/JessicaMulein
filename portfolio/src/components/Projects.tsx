@@ -97,6 +97,8 @@ const projects: Project[] = [
       "A simple Android widget that displays real-time BrightDate information, built with Kotlin.",
     tech: ["Kotlin", "Android", "BrightDate"],
     github: "https://github.com/Digital-Defiance/brightdate-android-widget",
+    googlePlay:
+      "https://play.google.com/store/apps/details?id=org.brightchain.brightdate.widget",
     category: "Production",
     highlights: [
       "Real-time BrightDate display in an Android widget",
@@ -110,6 +112,8 @@ const projects: Project[] = [
       "A native Android alarm clock application that uses BrightDate for timekeeping, built with Kotlin.",
     tech: ["Kotlin", "Android", "BrightDate"],
     github: "https://github.com/Digital-Defiance/brightdate-android-alarm",
+    googlePlay:
+      "https://play.google.com/store/apps/details?id=org.brightchain.brightdate.alarm",
     category: "Production",
     highlights: [
       "Real-time BrightDate display in an Android alarm clock",
@@ -123,6 +127,8 @@ const projects: Project[] = [
       "A WearOS watch face that displays real-time BrightDate information, built with Kotlin.",
     tech: ["Kotlin", "WearOS", "BrightDate"],
     github: "https://github.com/Digital-Defiance/brightdate-wearos",
+    googlePlay:
+      "https://play.google.com/store/apps/details?id=org.brightchain.brightdate",
     category: "Production",
     highlights: [
       "Real-time BrightDate display in a WearOS watch face",
