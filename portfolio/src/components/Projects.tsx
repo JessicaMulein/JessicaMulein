@@ -56,7 +56,7 @@ const projects: Project[] = [
       "A timezone-free decimal time protocol anchored to the J2000.0 epoch, replacing legacy temporal complexity with a single universal scalar.",
     tech: ["TypeScript", "Rust", "J2000.0", "Decimal Math"],
     github: "https://github.com/Digital-Defiance/BrightDate",
-    projectUrl: "https://brightdate.brightchain.org",
+    projectUrl: "https://brightdate.org",
     category: "Production",
     highlights: [
       "Eliminates 'Legacy Tax' (DST, timezones, leap seconds)",
