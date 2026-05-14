@@ -80,7 +80,7 @@ const Hero = ({ scrollY }: HeroProps) => {
             I’m developing{" "}
             <a
               rel="noopener"
-              href="https://brightdate.brightchain.org"
+              href="https://brightdate.org"
               target="_blank"
             >
               BrightDate
