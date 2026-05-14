@@ -41,7 +41,7 @@ const projects: Project[] = [
     tech: ["TypeScript", "NX", "React", "Express", "MongoDB"],
     github: "https://github.com/Digital-Defiance/BrightChain",
     projectUrl: "https://github.brightchain.org",
-    liveUrl: 'https://brightchain.org',
+    liveUrl: "https://brightchain.org",
     category: "Research",
     highlights: [
       "ECIES encryption with AES-256-GCM for absolute privacy",
@@ -63,6 +63,71 @@ const projects: Project[] = [
       "High-precision J2000.0 astronomical anchoring",
       "Native Rust implementation for sub-microsecond precision",
       "Supports cross-platform synchronization for distributed systems",
+    ],
+  },
+  {
+    title: "BrightDate StatusBar",
+    description:
+      "A native macOS menu bar application providing real-time BrightDate display in the menu bar, built with Swift and SwiftUI.",
+    tech: ["Swift", "SwiftUI", "BrightDate"],
+    github: "https://github.com/Digital-Defiance/brightdate-macos-statusbar",
+    category: "Production",
+    highlights: [
+      "Real-time BrightDate display in the macOS menu bar",
+      "Built with Swift and SwiftUI for native performance",
+      "Seamless integration with BrightDate ecosystem",
+    ],
+  },
+  {
+    title: "BrightDate MacOS/IOS Widget",
+    description:
+      "A desktop widget for macOS and iOS that displays real-time BrightDate information, built with SwiftUI",
+    tech: ["Swift", "SwiftUI", "BrightDate"],
+    github: "https://github.com/Digital-Defiance/brightdate-apple-widget",
+    category: "Production",
+    highlights: [
+      "Real-time BrightDate display in a desktop widget",
+      "Built with SwiftUI for native performance",
+      "Seamless integration with BrightDate ecosystem",
+    ],
+  },
+  {
+    title: "BrightDate Android Widget",
+    description:
+      "A simple Android widget that displays real-time BrightDate information, built with Kotlin.",
+    tech: ["Kotlin", "Android", "BrightDate"],
+    github: "https://github.com/Digital-Defiance/brightdate-android-widget",
+    category: "Production",
+    highlights: [
+      "Real-time BrightDate display in an Android widget",
+      "Built with Kotlin for native performance",
+      "Seamless integration with BrightDate ecosystem",
+    ],
+  },
+  {
+    title: "BrightDate Android Alarm Clock",
+    description:
+      "A native Android alarm clock application that uses BrightDate for timekeeping, built with Kotlin.",
+    tech: ["Kotlin", "Android", "BrightDate"],
+    github: "https://github.com/Digital-Defiance/brightdate-android-alarm",
+    category: "Production",
+    highlights: [
+      "Real-time BrightDate display in an Android alarm clock",
+      "Built with Kotlin for native performance",
+      "Seamless integration with BrightDate ecosystem",
+    ],
+  },
+  {
+    title: "BrightDate Android WearOS Watch Face",
+    description:
+      "A WearOS watch face that displays real-time BrightDate information, built with Kotlin.",
+    tech: ["Kotlin", "WearOS", "BrightDate"],
+    github: "https://github.com/Digital-Defiance/brightdate-wearos",
+    category: "Production",
+    highlights: [
+      "Real-time BrightDate display in a WearOS watch face",
+      "Built with Kotlin for native performance",
+      "Seamless integration with BrightDate ecosystem",
     ],
   },
   {
@@ -131,11 +196,13 @@ const projects: Project[] = [
   },
   {
     title: "Node Accelerate",
-    description: "High-performance Apple Accelerate framework bindings for Node.js. Optimized for Apple Silicon architectures (M1 through M4 Max).",
+    description:
+      "High-performance Apple Accelerate framework bindings for Node.js. Optimized for Apple Silicon architectures (M1 through M4 Max).",
     tech: ["TypeScript", "Rust", "Apple Silicon", "C++"],
     github: "https://github.com/Digital-Defiance/node-accelerate",
     projectUrl: "https://digital-defiance.github.io/node-accelerate/",
-    npmPackage: "https://www.npmjs.com/package/@digitaldefiance/node-accelerate",
+    npmPackage:
+      "https://www.npmjs.com/package/@digitaldefiance/node-accelerate",
     category: "Production",
     highlights: [
       "283x faster matrix operations via hardware acceleration",
@@ -199,8 +266,10 @@ const projects: Project[] = [
       "Native macOS bridge exposing Apple Secure Enclave cryptographic operations to Node.js via Unix file sockets.",
     tech: ["Swift", "TypeScript", "Secure Enclave", "Unix IPC"],
     github: "https://github.com/Digital-Defiance/enclave-bridge",
-    npmPackage: "https://www.npmjs.com/package/@digitaldefiance/enclave-bridge-client",
-    appleAppStore: "https://apps.apple.com/us/app/enclave-bridge/id6758280835?mt=12",
+    npmPackage:
+      "https://www.npmjs.com/package/@digitaldefiance/enclave-bridge-client",
+    appleAppStore:
+      "https://apps.apple.com/us/app/enclave-bridge/id6758280835?mt=12",
     category: "Production",
     highlights: [
       "Hardware-backed P-256 keys via Secure Enclave",
@@ -281,7 +350,8 @@ const projects: Project[] = [
     tech: ["React", "TypeScript", "Material-UI", "NX"],
     github: "https://github.com/Digital-Defiance/DominionAssistant",
     liveUrl: "https://dominionassistant.com",
-    googlePlay: "https://play.google.com/store/apps/details?id=com.digitaldefiance.dominionassistant",
+    googlePlay:
+      "https://play.google.com/store/apps/details?id=com.digitaldefiance.dominionassistant",
     category: "Production",
     highlights: [
       "Dynamic scoring algorithms for all 15+ expansions",
@@ -343,7 +413,8 @@ const Projects = () => {
         </motion.h2>
 
         <motion.p className="projects-subtitle" variants={projectVariants}>
-          A portfolio of foundational architecture, open-source stewardship, and academic research.
+          A portfolio of foundational architecture, open-source stewardship, and
+          academic research.
         </motion.p>
 
         <div className="projects-grid">
