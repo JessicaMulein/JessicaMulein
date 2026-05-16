@@ -142,7 +142,7 @@ const projects: Project[] = [
       "A high-performance shell environment (forked from Zsh) that treats BrightDate as a native temporal primitive.",
     tech: ["Zsh", "C", "Shell Scripting", "BrightDate"],
     github: "https://github.com/Digital-Defiance/bsh",
-    projectUrl: "https://bsh.brightchain.org",
+    projectUrl: "https://bsh.digitaldefiance.org",
     category: "Production",
     highlights: [
       "Native BrightDate glob modifiers (e.g., *.log(.m-0.01))",
@@ -157,7 +157,7 @@ const projects: Project[] = [
       "Port of GNU Findutils (find, xargs, locate) re-engineered to support native decimal time filtering and high-precision scalars.",
     tech: ["C", "GNU Coreutils", "Decimal Filtering"],
     github: "https://github.com/Digital-Defiance/findutils-brightdate",
-    projectUrl: "https://findutils.brightchain.org",
+    projectUrl: "https://findutils.digitaldefiance.org",
     category: "Production",
     highlights: [
       "Native -mtime and -atime support for floating-point decimals",
@@ -172,7 +172,7 @@ const projects: Project[] = [
       "The official configuration framework and widget ecosystem for BrightShell, featuring highly customizable temporal interfaces.",
     tech: ["TypeScript", "React", "Mobile Widgets", "RGB UI"],
     github: "https://github.com/Digital-Defiance/ohmybsh",
-    projectUrl: "https://ohmybsh.brightchain.org",
+    projectUrl: "https://ohmybsh.digitaldefiance.org",
     category: "Research",
     highlights: [
       "Cross-platform BrightDate mobile widget with RGB picker",
