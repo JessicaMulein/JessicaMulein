@@ -152,6 +152,21 @@ const projects: Project[] = [
     ],
   },
   {
+    title: "BSH SDI Agent",
+    description:
+      "The macOS menu-bar agent for BSH's Secure Semantic Data Injection protocol. Encrypted credential payloads arrive over an OSC 7777 terminal escape, never touching ps, shell history, or disk.",
+    tech: ["Swift", "SwiftUI", "BSH", "Secure Data Injection"],
+    github: "https://github.com/Digital-Defiance/bsh-sdi-agent",
+    projectUrl: "https://sdiagent.digitaldefiance.org",
+    category: "Production",
+    highlights: [
+      "Listens for encrypted OSC 7777 terminal escapes",
+      "Decrypts payloads with AES-256-GCM",
+      "Never writes sensitive data to disk or shell history",
+      "Menu bar utility provides easy copy/paste of encrypted credentials",
+    ],
+  },
+  {
     title: "Bright-Findutils",
     description:
       "Port of GNU Findutils (find, xargs, locate) re-engineered to support native decimal time filtering and high-precision scalars.",
