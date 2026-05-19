@@ -182,6 +182,21 @@ const projects: Project[] = [
     ],
   },
   {
+    title: "Bright-iputils (bping)",
+    description:
+      "A specialized suite of networking utilities for the BrightSpacetime ecosystem, enabling real-time distance-to-latency forensic auditing.",
+    tech: ["Rust", "BrightSpace", "Networking", "SIMD"],
+    github: "https://github.com/Digital-Defiance/iputils-brightdate",
+    projectUrl: "https://iputils.digitaldefiance.org",
+    category: "Production",
+    highlights: [
+      "Introduces 'bping': Audits network latency against physical light-speed limits",
+      "Calculates Spacetime Efficiency Ratios using BrightSpace coordinates",
+      "Detects proxy routing and spoofed locations via 'Distance Bounding'",
+      "High-performance ECEF-to-Bright-Meter conversions using hardware acceleration",
+    ],
+  },
+  {
     title: "Oh-My-BSH",
     description:
       "The official configuration framework and widget ecosystem for BrightShell, featuring highly customizable temporal interfaces.",
