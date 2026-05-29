@@ -51,6 +51,19 @@ const projects: Project[] = [
     ],
   },
   {
+    title: "BrightVision",
+    description: "A lightweight, cross-platform desktop app built with Tauri and React.",
+    tech: ["TypeScript", "Tauri", "React", "MUI"],
+    github: "https://github.com/Digital-Defiance/BrightVision",
+    liveUrl: "https://brightvision.digitaldefiance.org",
+    category: "Production",
+    highlights: [
+      "Privacy-first: run frontier models locally via Ollama + built-in Local LLM, not rented cloud inference.",
+      "Cursor-like AI coding through a clean, focused workspace — powered by Cecli (dwash96/cecli): coders, agents, MCP, and local models.",
+      "Available via homebrew"
+    ],
+  },
+  {
     title: "BrightDate",
     description:
       "A timezone-free decimal time protocol anchored to the J2000.0 epoch, replacing legacy temporal complexity with a single universal scalar.",
