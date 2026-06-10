@@ -4,6 +4,14 @@
 
 **Warp Engineer | Foundational Systems Researcher | Founder of Digital Defiance**
 
+​PROJECT STATUS: INACTIVE / THERAPEUTIC TINKERING ONLY
+
+- ​No Commercial Activity: This project is strictly open-source, non-commercial, and has zero funding, revenue, or commercial intent.
+- ​No Timelines or Commitments: There are no deadlines, roadmaps, or external obligations. Development occurs entirely at random, sporadic intervals only when the author's severe chronic neurological health conditions permit.
+- ​Cognitive Therapy Tool: This repository is utilized purely as an unpaced, self-directed cognitive exercise to maintain baseline mental function under medical advice. It does not represent full-time or part-time employment capacity.
+
+---
+
 - **35 Years at the Console:** Deep roots in systems architecture, embedded DSP, and distributed platforms (Microsoft, Workiva, and started an ISP at 13).
 - **Executive Director @ [Digital Defiance](https://digitaldefiance.org):** Commanding a 501(c)(3) non-profit guild dedicated to privacy-first, open-source engineering.
 - **Chief Architect:** Builder of **BrightChain** — the warp engine the world doesn't know it needs yet.
