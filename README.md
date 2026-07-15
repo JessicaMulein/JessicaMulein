@@ -61,6 +61,10 @@ Get your game on. It's free and you can play with our AI, who needs friends? Wha
 
 [Warp](https://warp.iwdf.org)
 
+![Simulations](https://img.shields.io/badge/simulated_games-285k+-FFCC00?style=for-the-badge&logo=codeforces&logoColor=black)
+![Status](https://img.shields.io/badge/federation-certified-0099FF?style=for-the-badge&logo=rocket&logoColor=white)
+![Tech](https://img.shields.io/badge/engine-rust%20%2F%20typescript-FF9900?style=for-the-badge&logo=rust&logoColor=white)
+
 If you're really into eSports and OpenSkill, check out my [research paper](https://warp.iwdf.org/tei-paper.pdf) on TEI (our flavor of OpenSkill) and the 285,000 game calibration test we ran evaluating my 12 modules and the base "mexican train" game itself for skill/luck. Here are some heatmaps from that paper:
 
 ![Luck/Skill Metric Across Warp Factors](https://github.com/Digital-Defiance/Warp12/blob/main/tools/nn/figures/figure1-cross-factor-comparison.png)
@@ -103,3 +107,4 @@ The engine is humming. I could use your help on the bridge.
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JessicaMulein&theme=tokyonight)
+
