@@ -61,6 +61,18 @@ Get your game on. It's free and you can play with our AI, who needs friends? Wha
 
 [Warp](https://warp.iwdf.org)
 
+If you're really into eSports and OpenSkill, check out my [research paper](https://warp.iwdf.org/tei-paper.pdf) on TEI (our flavor of OpenSkill) and the 285,000 game calibration test we ran evaluating my 12 modules and the base "mexican train" game itself for skill/luck. Here are some heatmaps from that paper:
+
+![Luck/Skill Metric Across Warp Factors](https://github.com/Digital-Defiance/Warp12/blob/main/tools/nn/figures/figure1-cross-factor-comparison.png)
+
+![Module skill ceiling across all Warp factors](https://github.com/Digital-Defiance/Warp12/blob/main/tools/nn/figures/figure11-module-skill-ranking.png)
+
+![Module Warp Factor Heatmap](https://github.com/Digital-Defiance/Warp12/blob/main/tools/nn/figures/figure12-module-warp-heatmap.png)
+
+![Hand Pressure Metrics](https://github.com/Digital-Defiance/Warp12/blob/main/tools/nn/figures/figure20-hand-pressure-bars.png)
+
+Anyway, see the paper for more!
+
 ---
 
 ### 💬 The Knowledge Base
