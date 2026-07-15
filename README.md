@@ -4,7 +4,7 @@
 
 **Warp Engineer | Foundational Systems Researcher | Founder of Digital Defiance**
 ## Systems Architect | Distributed Platforms | Simulation Engineering
-> PROJECT STATUS: INACTIVE / THERAPEUTIC TINKERING ONLY
+> **PROJECT STATUS: INACTIVE / THERAPEUTIC TINKERING ONLY**
 > - ​No Commercial Activity: This project is strictly open-source, non-commercial, and has zero funding, revenue, or commercial intent.
 > - ​No Timelines or Commitments: There are no deadlines, roadmaps, or external obligations. Development occurs entirely at random, sporadic intervals only when the author's severe chronic neurological health conditions permit.
 > - ​Cognitive Therapy Tool: This repository is utilized purely as an unpaced, self-directed cognitive exercise to maintain baseline mental function under medical advice. It does not represent full-time or part-time employment capacity.
@@ -48,23 +48,21 @@ BrightChain is the platform civilization needs because it:
 
 ---
 
-### Going Warp 12
+### 🎲 Going Warp 12
 
-In the spirit of Zefram Cochrane himself, I have built [Warp 12](https://warp12.app) which is a "Mexican Train" (though I prefer "Interstellar Warp Dominoes" or "multi-trail dominoes") and have started the [Interstellar Warp Dominoes Federation](https://iwdf.org) to govern it.
+In the spirit of long-haul exploration, I have built **[Warp 12](https://warp12.app)**. While the world calls it "Mexican Train," I prefer "Interstellar Warp Dominoes"—and I have founded the **[Interstellar Warp Dominoes Federation](https://iwdf.org)** to govern it.
 
-Traditional Dominoes is known to be fairly competitive at times. Mexican Train grew to be especially social by comparison. I decided to put the Federation Decorum back into it and make it a [Rated](https://warp.iwdf.org/tei) "sport" or whatever you call chess. Note that I don't want to take the fun out of it- that is not the idea at all. I actually built 12 add ons to the game designed to add new twists and new fun. But I wanted to bring a Federation style flair to things and bring Interstellar Warp Dominoes to the table as a serious option for competition with OpenSkill ratings, squads (Warp Crews), the works.
-
-Warp is what the night shift plays on the bridge.
-
-Get your game on. It's free and you can play with our AI, who needs friends? What's your excuse now?
-
-[Warp](https://warp.iwdf.org)
-
-![Simulations](https://img.shields.io/badge/simulated_games-285k+-FFCC00?style=for-the-badge&logo=codeforces&logoColor=black)
-![Status](https://img.shields.io/badge/federation-certified-0099FF?style=for-the-badge&logo=rocket&logoColor=white)
+![Simulations](https://img.shields.io/badge/simulated_games-456k+-FFCC00?style=for-the-badge&logo=codeforces&logoColor=black)
+![Status](https://img.shields.io/badge/protocol-certified-0099FF?style=for-the-badge&logo=rocket&logoColor=white)
 ![Tech](https://img.shields.io/badge/engine-rust%20%2F%20typescript-FF9900?style=for-the-badge&logo=rust&logoColor=white)
 
-If you're really into eSports and OpenSkill, check out my [research paper](https://warp.iwdf.org/tei-paper.pdf) on TEI (our flavor of OpenSkill) and the 285,000 game calibration test we ran evaluating my 12 modules and the base "mexican train" game itself for skill/luck. Here are some heatmaps from that paper:
+Where traditional dominoes are social, I’ve injected "Standard Protocol" back into the game to create a [rated sport](https://warp.iwdf.org/tei). I didn't want to sacrifice the fun, so I’ve packed the game with 12 expansion modules designed to add new tactical depth. This is a serious environment for competition, complete with OpenSkill ratings, persistent leaderboards, and organized Warp Crews.
+
+Warp 12 is what the night shift plays on the bridge.
+
+**[Get your game on](https://warp.iwdf.org).** It's free, competitive, and includes a challenging AI opponent—so really, what’s your excuse?
+
+If you're really into eSports and OpenSkill, check out my [research paper](https://warp.iwdf.org/tei-paper.pdf) on TEI (our flavor of OpenSkill) and the 456,000+ game calibration test we ran evaluating my 12 modules and the base "mexican train" game itself for skill/luck. Here are some heatmaps from that paper:
 
 ![Luck/Skill Metric Across Warp Factors](https://github.com/Digital-Defiance/Warp12/blob/main/tools/nn/figures/figure1-cross-factor-comparison.png)
 
@@ -81,9 +79,15 @@ Anyway, see the paper for more!
 ### 💬 The Knowledge Base
 
 I've been at the console since 1987. Ask me about:
-* **Languages:** C/C++, Rust, TypeScript, C#, Python, Go, and the "ancient arts" (Pascal, Perl).
-* **Specialties:** High-performance computing, cryptographic storage, embedded systems, and neurodivergent-led engineering.
-* **Philosophy:** Why "zero-pressure diamonds" outlast anything forged under corporate coal.
+
+| Domain | Stack / Tools |
+| :--- | :--- |
+| **Core Systems** | C/C++, Rust, Python, Go, Pascal, Perl |
+| **Distributed** | Node.js, TypeScript, C#, Docker |
+| **Simulations** | Custom Neural Agents, OpenSkill |
+| **Architecture** | High-performance computing, cryptographic storage, embedded systems |
+
+*Philosophy: Why "zero-pressure diamonds" outlast anything forged under corporate coal.*
 
 ---
 
@@ -106,4 +110,3 @@ The engine is humming. I could use your help on the bridge.
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JessicaMulein&theme=tokyonight)
-
