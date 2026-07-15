@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm ~~Jessica~~ Zefram Cochrane.
 
-![Zefram Cochrane](https://media.licdn.com/dms/image/v2/D5622AQH6f8jClr8flg/feedshare-image-high-res/B56Z3qB5zyKYAU-/0/1777747860966?e=1779321600&v=beta&t=npPhv4q-VGjSvMEJGy9bQ5pV252vTjyotBwSaXLfRVk)
+![Zefram Cochrane]([https://media.licdn.com/dms/image/v2/D5622AQH6f8jClr8flg/feedshare-image-high-res/B56Z3qB5zyKYAU-/0/1777747860966?e=1779321600&v=beta&t=npPhv4q-VGjSvMEJGy9bQ5pV252vTjyotBwSaXLfRVk](https://cdn-blog.adafruit.com/uploads/2013/04/zc_600.jpg)
 
 **Warp Engineer | Foundational Systems Researcher | Founder of Digital Defiance**
 
@@ -46,6 +46,20 @@ BrightChain is the platform civilization needs because it:
 - **[Express Suite](https://github.com/Digital-Defiance/express-suite):** Enterprise-grade scaffolding for high-performance Node.js.
 - **[AI Capabilities Suite](https://github.com/Digital-Defiance/ai-capabilities-suite):** Local AI models integrated into decentralized workflows.
 - **[node-rs-accelerate](https://github.com/Digital-Defiance/node-rs-accelerate):** Hardware-accelerated math for Apple Silicon (M4 Max optimized).
+
+---
+
+### Going Warp 12
+
+In the spirit of Zefram Cochrane himself, I have built [Warp 12](https://warp12.app) which is a "Mexican Train" (though I prefer "Interstellar Warp Dominoes" or "multi-trail dominoes") and have started the [Interstellar Warp Dominoes Federation](https://iwdf.org) to govern it.
+
+Traditional Dominoes is known to be fairly competitive at times. Mexican Train grew to be especially social by comparison. I decided to put the Federation Decorum back into it and make it a [Rated](https://warp.iwdf.org/tei) "sport" or whatever you call chess. Note that I don't want to take the fun out of it- that is not the idea at all. I actually built 12 add ons to the game designed to add new twists and new fun. But I wanted to bring a Federation style flair to things and bring Interstellar Warp Dominoes to the table as a serious option for competition with OpenSkill ratings, squads (Warp Crews), the works.
+
+Warp is what the night shift plays on the bridge.
+
+Get your game on. It's free and you can play with our AI, who needs friends? What's your excuse now?
+
+[Warp](https://warp.iwdf.org)
 
 ---
 
