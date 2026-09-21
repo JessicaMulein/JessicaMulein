@@ -48,6 +48,20 @@ BrightChain is the platform civilization needs because it:
 
 ---
 
+### PSA: Save for the rainy day or the flood
+
+The system is built to chew you up and dump you out.
+
+Your employer may or may not support you a while but they cannot carry you forever if you get cancer or get sick and the way our system is built everything is on them and eventually you are to be dumped off onto the lower tier government and insurance systems but everyone wants to dump your burden and looks for excuses to say you're fine, and to put you back to work until you're older than is sane.
+
+Your long term disability insurer will hire doctors who have never seen you to cherry pick sentences from your doctors reports to dismiss you. They will hang on loopholes and cutouts made for them.
+
+They will make you fight and you will be without money over and over again as you wait. The stream keeps turning off and they threaten you constantly. It is incredibly bad for your mental health and you will never have a good night's sleep or a day without anxiety.
+
+They are vultures and vampires, chewing you up, picking your bones, your neurons, and eating you up until you're a dried dessicated husk in a vault you can't afford to pay for anymore.
+
+---
+
 ### 🎲 Going Warp 12
 
 In the spirit of long-haul exploration, I have built **[Warp 12](https://warp12.app)**. While the world calls it "Mexican Train," I prefer "Interstellar Warp Dominoes"—and I have founded the **[Interstellar Warp Dominoes Federation](https://iwdf.org)** to govern it.
